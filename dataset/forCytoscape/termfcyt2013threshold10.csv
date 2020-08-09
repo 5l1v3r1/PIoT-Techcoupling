@@ -1,0 +1,70 @@
+YEAR,DOMS,COUNT,SN,TN
+2013,EPS-Source,6.0,residential feeder,DR
+2013,EPS-Load,7.0,Smart grid,DR
+2013,IOT-App,6.0,Trust model,IoT
+2013,EPS-Store,7.0,vehicle to grid,PHEVs
+2013,IOT-Network,7.0,HIP,DEX
+2013,IOT-Percept,11.0,RFID,Internet of Things
+2013,EPS-Source,9.0,smart grid,PV
+2013,EPS-Grid,6.0,NCS,SG
+2013,EPS-Source,8.0,Energy Management,PV
+2013,EPS-Grid,11.0,Microgrid,DG
+2013,EPS-Grid,6.0,Packet dropouts,SG
+2013,EPS-Source,7.0,optimal power generation mix,PV
+2013,EPS-Source,6.0,Interface flow margin,HVDC
+2013,IOT-App,6.0,Autonomic Agent,IoT
+2013,EPS-Source,12.0,energy storage,PV
+2013,EPS-Source,6.0,hierarchical control,DR
+2013,EPS-Store,7.0,V2G,PHEVs
+2013,IOT-Percept,6.0,identification,RFID
+2013,EPS-Store,11.0,Electric Vehicle,EVs
+2013,EPS-Grid,6.0,Wide area measurements,SG
+2013,EPS-Source,6.0,optimal control,energy storage
+2013,IOT-Percept,6.0,elliptic curves,RFID
+2013,IOT-Percept,6.0,security,RFID
+2013,EPS-Source,6.0,Coordinative control,DR
+2013,IOT-Percept,7.0,wireless sensor network,IoT
+2013,EPS-Grid,8.0,smart grid,IEC
+2013,IOT-Percept,6.0,privacy,RFID
+2013,EPS-Grid,6.0,Distributed Generation,DG
+2013,EPS-Store,7.0,EV,EVs
+2013,IOT-Network,7.0,cyber-physical systems,M2M
+2013,EPS-Source,6.0,multiple HVDC,HVDC
+2013,EPS-Grid,6.0,Limited communication,SG
+2013,EPS-Load,10.0,AMI,smart meter
+2013,EPS-Grid,6.0,IEC 61850,IEC
+2013,IOT-Percept,8.0,RFID security,RFID
+2013,EPS-Store,6.0,microgrids,EVs
+2013,IOT-Network,7.0,Network Security,DEX
+2013,EPS-Source,7.0,solar photovoltaic system,PV
+2013,EPS-Store,9.0,smart grid,EVs
+2013,IOT-Network,7.0,Key Management,DEX
+2013,IOT-Network,7.0,Compression,DEX
+2013,EPS-Source,6.0,Jeju Island,HVDC
+2013,EPS-Source,6.0,wind farm,HVDC
+2013,EPS-Grid,6.0,Networked control systems,SG
+2013,EPS-Store,6.0,V2G,electric vehicle
+2013,EPS-Source,7.0,Distributed generation,PV
+2013,EPS-Load,8.0,smart grid,DR
+2013,EPS-Grid,7.0,Smart Grid,QoS
+2013,EPS-Load,11.0,Smart Grid,DR
+2013,EPS-Store,6.0,SOC,energy storage
+2013,IOT-Network,11.0,WSN,IoT
+2013,EPS-Store,7.0,plug-in hybrid electric vehicle,PHEVs
+2013,IOT-Network,7.0,HIP DEX,DEX
+2013,IOT-Network,7.0,machine-to-machine communications,M2M
+2013,IOT-Network,8.0,IoT,wireless sensor networks
+2013,IOT-Network,7.0,Internet of Things,DEX
+2013,EPS-Load,6.0,Advanced Metering Infrastructure,smart meter
+2013,IOT-Network,7.0,IoT,IPv6
+2013,EPS-Source,6.0,demand dispatch,DR
+2013,EPS-Grid,6.0,Unified Power Quality Compensator,DG
+2013,EPS-Source,7.0,DC microgrid,DC
+2013,EPS-Source,11.0,Microgrid,PV
+2013,EPS-Grid,8.0,droop control,ST
+2013,EPS-Grid,6.0,Delay systems,SG
+2013,EPS-Grid,6.0,Power Quality,DG
+2013,EPS-Store,14.0,PHEV,PHEVs
+2013,EPS-Source,6.0,photovoltaic systems,PV
+2013,EPS-Source,6.0,operation strategy,HVDC
+2013,IOT-Network,7.0,wireless sensor networks,M2M

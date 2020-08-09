@@ -1,0 +1,850 @@
+YEAR,DOMS,COUNT,SN,TN
+2019,IOT-Percept,7.0,Arduino Uno R3,LPG
+2019,IOT-App,7.0,hyper-connected IoT,IoT
+2019,IOT-Network,6.0,Chirp modulation,LoRa
+2019,IOT-App,6.0,information-centric IoV,IoV
+2019,IOT-App,6.0,Lung cancer,reinforcement learning
+2019,IOT-App,6.0,OSLC specification,IoT
+2019,IOT-Percept,8.0,IoT,RFID
+2019,EPS-Source,10.0,islanding detection method,DC
+2019,IOT-Network,6.0,machine learning,5G
+2019,IOT-Compute,8.0,application store,IoT
+2019,IOT-Network,6.0,Wireless communication network,IoT
+2019,IOT-App,8.0,security and privacy,IoT
+2019,EPS-Source,6.0,frequency stabilization,WTG
+2019,IOT-App,8.0,paperwork inaccuracies,HAL
+2019,IOT-Network,7.0,trajectory optimization,IoT
+2019,EPS-Source,6.0,distributed power generation,power management
+2019,IOT-App,6.0,Multicriteria decision-making,IoT
+2019,IOT-App,17.0,Network telescopes,IoT
+2019,IOT-App,8.0,eMTC(Enhanced Machine Type Communication),eMTC
+2019,EPS-Load,6.0,additive noise,ED
+2019,IOT-App,8.0,NB,eMTC
+2019,IOT-Network,9.0,MQTT,IoT
+2019,IOT-Network,6.0,Energy-harvesting,WSN
+2019,EPS-Source,7.0,Smart grid,smart grids
+2019,EPS-Grid,6.0,ESS,energy storage
+2019,IOT-Network,6.0,Deep Reinforcement Learning,IoT
+2019,IOT-Network,8.0,D2D communication,D2D
+2019,IOT-Network,8.0,Industrial Internet of Things,Internet of Things
+2019,IOT-App,7.0,Google Voice API,IoT
+2019,IOT-App,7.0,IoT security and privacy,IoT
+2019,IOT-App,8.0,PSS(Primary Synchronization Signal),eMTC
+2019,IOT-Network,10.0,3G,IoT
+2019,IOT-Network,7.0,IIoT,OPC
+2019,IOT-App,7.0,context management,IoT
+2019,IOT-Compute,7.0,subset aggregation,IoT
+2019,EPS-Load,6.0,secure operation,ED
+2019,IOT-Compute,6.0,Anomaly Detection,IoT
+2019,IOT-Network,6.0,15,EB
+2019,IOT-App,6.0,firewalls,IoV
+2019,EPS-Source,6.0,power system measurement,DC
+2019,EPS-Source,8.0,renewable energy sources,DC
+2019,EPS-Load,6.0,pool-based day-ahead electricity market,MGA
+2019,IOT-Network,6.0,Wireless sensor network,TGO
+2019,IOT-App,6.0,penetrated malicious content,IoV
+2019,IOT-Network,7.0,LTE-M,IoT
+2019,EPS-Source,6.0,Microgrids,energy storage
+2019,EPS-Store,6.0,energy storage system,CES
+2019,IOT-Network,7.0,OPC UA,OPC
+2019,IOT-Compute,6.0,Sensing devices access platform,IoT
+2019,IOT-Network,6.0,RBAC,IoT
+2019,IOT-App,8.0,FDM(Frequency Division Multiplex),eMTC
+2019,IOT-Network,7.0,energy minimization,IoT
+2019,IOT-Network,6.0,distributed and dynamic packet scheduling,D-2-PaS
+2019,EPS-Store,7.0,battery powered vehicles,EVs
+2019,IOT-Percept,7.0,testing platform,wireless sensor networks
+2019,IOT-Percept,6.0,Vision system,3D
+2019,IOT-App,6.0,coverage enhancement,RAP
+2019,IOT-Network,8.0,smart contract,IoT
+2019,IOT-App,7.0,object-based modeling,IoT
+2019,IOT-Percept,6.0,wearable devices,SiNW
+2019,IOT-Percept,7.0,gas sensor,LPG
+2019,IOT-Network,13.0,5G mobile communication,5G
+2019,IOT-Network,6.0,Security,5G
+2019,EPS-Load,6.0,robust scheduling,MGA
+2019,IOT-Percept,17.0,Internet of Things,wireless sensor networks
+2019,EPS-Store,7.0,distributed power generation,EVs
+2019,IOT-App,7.0,protocols,IoT
+2019,IOT-Network,6.0,online algorithm,IoT
+2019,EPS-Store,7.0,Distributed generation,BESS
+2019,IOT-App,6.0,Machine Learning,BLE
+2019,EPS-Source,6.0,Off-grid PV,PV
+2019,IOT-App,6.0,Interface management and configuration,IoT
+2019,IOT-App,6.0,Accountability,IoT
+2019,IOT-Percept,7.0,continuous monitoring,IoT
+2019,EPS-Source,7.0,energy storage system,PV
+2019,IOT-App,8.0,PSM,eMTC
+2019,IOT-Network,10.0,Cluster-based wireless sensor network,CS
+2019,IOT-Compute,6.0,Healthcare,IoT
+2019,IOT-App,18.0,Localization,IoT
+2019,EPS-Grid,7.0,power line communications,PLC
+2019,IOT-App,18.0,multidimensional scaling,IoT
+2019,IOT-App,7.0,heterogeneity,IoT
+2019,EPS-Store,6.0,cloud energy storage service,CES
+2019,IOT-Percept,8.0,Magnetoresistive sensor,MR
+2019,IOT-Network,11.0,IoT devices,IoT
+2019,EPS-Source,6.0,high-frequency impedance model,DC
+2019,EPS-Grid,6.0,electric coupling,HVDC
+2019,EPS-Load,6.0,price-maker MGA,MGA
+2019,IOT-Network,10.0,IoT,BLE
+2019,IOT-App,7.0,Cycle time,3D
+2019,EPS-Source,8.0,microgrids,SMES
+2019,IOT-Percept,6.0,sparsity,SPARCE
+2019,EPS-Load,6.0,different operation scenarios,ED
+2019,IOT-App,6.0,Veracity,IoT
+2019,IOT-Network,6.0,WSN,5G
+2019,IOT-Network,6.0,mobility,EB
+2019,IOT-App,6.0,intelligent transportation,IoV
+2019,IOT-Network,11.0,Wireless communication,IoT
+2019,IOT-Network,10.0,routing protocol,IoT
+2019,IOT-Compute,6.0,Resource Management,IoT
+2019,IOT-App,6.0,Drones,BLE
+2019,EPS-Load,6.0,existing ED strategies,ED
+2019,IOT-Percept,6.0,Big data,IoT
+2019,IOT-App,6.0,Intelligent Prosthetics,BLE
+2019,IOT-App,6.0,Lifecycle data integration,IoT
+2019,EPS-Load,13.0,Smart grid,DR
+2019,IOT-Network,6.0,Resource management,IoT
+2019,EPS-Source,6.0,Solar energy,PV
+2019,EPS-Grid,8.0,distributed generations,MG
+2019,EPS-Grid,8.0,hybrid AC,DC
+2019,EPS-Load,6.0,consensus-based implementation,ED
+2019,EPS-Load,6.0,post-iterate averaging technique,ED
+2019,EPS-Source,6.0,renewable energy sources,CCFC
+2019,IOT-App,7.0,Lattice-based cryptography,IoT
+2019,IOT-Network,6.0,Wireless communication,LoRa
+2019,IOT-Percept,6.0,Internet of Things,WSN
+2019,IOT-Compute,8.0,embedded devices,IoT
+2019,IOT-Network,10.0,IoT,UAVs
+2019,IOT-Network,8.0,factory of the future,IoT
+2019,EPS-Source,7.0,power generation control,PV
+2019,IOT-Network,6.0,Low-power electronics,LoRa
+2019,IOT-Network,6.0,Safety,IoV
+2019,EPS-Store,6.0,distributed energy storage,CES
+2019,IOT-Percept,6.0,SDN,IoT
+2019,EPS-Load,6.0,additive communication noise,ED
+2019,EPS-Store,7.0,game theory,EVs
+2019,EPS-Load,6.0,Cloud computing,SG
+2019,IOT-Network,6.0,IoT device and server,IoT
+2019,EPS-Source,7.0,Monte Carlo methods,PV
+2019,IOT-App,17.0,Probing,IoT
+2019,EPS-Grid,7.0,LPWAN,LoRa
+2019,IOT-App,6.0,Remote Robotic Surgery,BLE
+2019,IOT-App,8.0,Narrow Band,eMTC
+2019,IOT-App,8.0,Cellular Internet of Things,eMTC
+2019,IOT-Network,8.0,cardiac rehabilitation exercise,CR
+2019,EPS-Store,6.0,residential areas,CES
+2019,EPS-Source,6.0,detection failure,DC
+2019,EPS-Source,7.0,emission,PV
+2019,EPS-Store,6.0,improved service mechanism,CES
+2019,IOT-Percept,7.0,cyber security,IoT
+2019,EPS-Grid,8.0,MPFC,MG
+2019,IOT-Percept,6.0,multifunctional wearable sensors,SiNW
+2019,IOT-App,7.0,network management,IoT
+2019,IOT-Network,6.0,IEEE 802.15.4,wireless sensor networks
+2019,IOT-App,7.0,platform,IoT
+2019,IOT-App,7.0,User experience,IoT
+2019,IOT-App,7.0,Smart Grids,IoT
+2019,IOT-Percept,6.0,silicon nanowires,SiNW
+2019,EPS-Store,6.0,power markets,CES
+2019,IOT-Network,7.0,flow monitoring,IoT
+2019,EPS-Source,6.0,power quality,DC
+2019,EPS-Load,6.0,two-stage stochastic chance-constrained programming,ICES
+2019,EPS-Load,6.0,communication links,ED
+2019,IOT-Percept,8.0,Internet of Things,MR
+2019,IOT-Network,8.0,mobile-edge computing,IoT
+2019,IOT-App,8.0,TDM(Time Division Multiplex),eMTC
+2019,EPS-Source,6.0,harmonic impedance measurement,DC
+2019,IOT-App,6.0,Embedded devices,PTZ
+2019,IOT-Network,9.0,Internet of Things,MEC
+2019,EPS-Load,6.0,Smart Grid,power quality
+2019,EPS-Grid,7.0,Microgrid,PF
+2019,IOT-Network,7.0,Embedded Systems,IoT
+2019,IOT-Compute,7.0,Self-organization,IoT
+2019,IOT-App,6.0,runtime security,ML
+2019,IOT-Percept,6.0,Deep learning,IoT
+2019,IOT-Network,10.0,Mobile cellular communication,IoT
+2019,EPS-Source,8.0,Microgrids,MGs
+2019,IOT-App,7.0,Traffic Modelling,IoT
+2019,IOT-App,6.0,Process modelling,IoT
+2019,EPS-Source,8.0,DC-DC power convertors,DC
+2019,IOT-Network,6.0,Raspberry Pi,IoT
+2019,IOT-Network,7.0,Medium access control,IoT
+2019,IOT-App,8.0,Low Power Wide Area,eMTC
+2019,IOT-App,6.0,Hash Function,IoT
+2019,IOT-App,7.0,Agent-based modeling,IoT
+2019,IOT-Network,11.0,Smart home,IoT
+2019,IOT-Percept,21.0,wireless sensor networks,IoT
+2019,EPS-Store,6.0,residential microgrids,CES
+2019,IOT-App,7.0,Non-Intrusive Load Monitoring,IoT
+2019,IOT-App,6.0,power consumption,RAP
+2019,IOT-Percept,6.0,Smart Imager,3D
+2019,IOT-Percept,6.0,Deep learning,SPARCE
+2019,IOT-Network,6.0,Data importance,IoT
+2019,IOT-Network,9.0,IoT,BS
+2019,IOT-Compute,6.0,resource description model,IoT
+2019,IOT-Network,7.0,Compressed sensing,IoT
+2019,EPS-Source,6.0,high-fidelity battery model,WTG
+2019,IOT-Network,12.0,RF fingerprinting,IoT
+2019,IOT-App,6.0,IoT device connectivity,IoT
+2019,IOT-Network,8.0,congestion control,5G
+2019,EPS-Source,7.0,Renewable energy,energy storage
+2019,IOT-Network,8.0,Wearable device,CR
+2019,IOT-App,6.0,AI,BLE
+2019,IOT-Network,7.0,Automation,IoT
+2019,IOT-Network,10.0,frequency,IoT
+2019,IOT-Network,6.0,low-power communication,IoT
+2019,EPS-Store,6.0,distributed power generation,CES
+2019,EPS-Store,6.0,service period,CES
+2019,EPS-Load,6.0,price-maker strategies,MGA
+2019,IOT-App,6.0,smart healthcare,IoT
+2019,IOT-Network,6.0,Wireless communication,5G
+2019,EPS-Source,6.0,electric impedance measurement,DC
+2019,EPS-Source,9.0,Aggregators,DSR
+2019,IOT-Network,6.0,piecewise linear,IoT
+2019,IOT-App,8.0,shipment delays,HAL
+2019,IOT-App,8.0,transport efficiency,HAL
+2019,IOT-Compute,8.0,IoT test platform,IoT
+2019,IOT-Network,6.0,Distributed computing,IoT
+2019,EPS-Source,6.0,electrical quantities,DC
+2019,EPS-Source,6.0,forecasting,PV
+2019,IOT-Compute,9.0,Fog,IoT
+2019,IOT-Percept,6.0,3D technology,3D
+2019,IOT-App,6.0,ISRF,IoV
+2019,IOT-Compute,7.0,Attribute-Based Approach,IoT
+2019,IOT-App,6.0,NB-IoT,RAP
+2019,IOT-Network,6.0,semantics,IoT
+2019,EPS-Source,8.0,Fuzzy logic control,SMES
+2019,IOT-Compute,9.0,Digital forensics,IoT
+2019,IOT-App,18.0,Satellite broadcasting,IoT
+2019,EPS-Source,13.0,MPPT,PV
+2019,EPS-Load,6.0,islanded microgrids,ED
+2019,IOT-Network,6.0,bounded-error approximation,IoT
+2019,EPS-Source,13.0,distributed power generation,PV
+2019,IOT-App,8.0,VoLTE (Voice over Long-Term Evolution),eMTC
+2019,EPS-Grid,7.0,Three phase transformer,PF
+2019,IOT-App,6.0,Process modeling,IoT
+2019,IOT-App,7.0,program analysis,IoT
+2019,IOT-Percept,10.0,security,IoT
+2019,IOT-Network,7.0,Internet of Things,D2D
+2019,EPS-Source,6.0,MPPT,DC
+2019,EPS-Store,6.0,power grids,CES
+2019,IOT-Network,6.0,Internet of Things,PLC
+2019,IOT-Network,6.0,Data communication,IoV
+2019,IOT-Percept,10.0,IoT,Industry 4.0
+2019,IOT-Compute,8.0,Cloud,IoT
+2019,IOT-App,6.0,optical devices,Internet of Vehicles
+2019,IOT-App,7.0,network protocols,IoT
+2019,IOT-Percept,6.0,deep neural networks,SPARCE
+2019,IOT-App,7.0,sharing economy,IoT
+2019,IOT-Network,9.0,OFDM,IoT
+2019,IOT-Network,6.0,Feedback,IoT
+2019,IOT-Network,7.0,UAV-aided edge computing,IoT
+2019,IOT-Compute,7.0,Distributed Ledger Technology,IoT
+2019,IOT-Network,6.0,Routing,WSN
+2019,IOT-Network,6.0,fluid approximation,wireless sensor networks
+2019,IOT-App,6.0,Data Privacy,IoT
+2019,IOT-Network,6.0,Cooperative RBAC,IoT
+2019,IOT-App,6.0,consistent hashing,IoT
+2019,IOT-App,8.0,information security,Internet of Things
+2019,EPS-Source,10.0,photovoltaic,PV
+2019,IOT-Network,7.0,Data Security,IoT
+2019,IOT-App,6.0,Personally Identifiable Information,IoT
+2019,EPS-Source,9.0,power grids,PV
+2019,EPS-Source,6.0,Energy management,energy storage
+2019,IOT-Percept,7.0,heterogeneity,wireless sensor networks
+2019,IOT-Network,7.0,NFV,5G
+2019,EPS-Load,6.0,microgrid,ED
+2019,IOT-App,7.0,device management,IoT
+2019,EPS-Load,6.0,vulnerability indicator,ICES
+2019,IOT-Network,9.0,LP-WAN,LoRa
+2019,IOT-Network,9.0,energy harvesting,IoT
+2019,EPS-Source,6.0,Sustainable development,PV
+2019,IOT-Percept,7.0,internet of things,LPG
+2019,IOT-App,6.0,Internet of Things system,IoT
+2019,EPS-Source,6.0,Micro-Grid,PV
+2019,EPS-Source,6.0,Developing countries,PV
+2019,IOT-Network,7.0,Physical Layer,IoT
+2019,IOT-App,7.0,aspect-oriented modeling,IoT
+2019,IOT-Network,7.0,flow-based programming,IoT
+2019,IOT-Compute,8.0,Artificial Intelligence,AI
+2019,EPS-Source,6.0,energy storage,power management
+2019,IOT-App,6.0,5G,BLE
+2019,IOT-Network,7.0,Privacy,IoT
+2019,IOT-App,7.0,fuzzy-logic modeling,IoT
+2019,IOT-Network,8.0,heterogeneous network,IoT
+2019,IOT-Network,10.0,Reconstruction process,CS
+2019,EPS-Source,19.0,distributed power generation,DC
+2019,EPS-Store,6.0,CES service fee,CES
+2019,IOT-Network,6.0,Cooperative trust evaluation,IoT
+2019,EPS-Source,6.0,real-time optimization,MG
+2019,EPS-Grid,7.0,fault currents,DC
+2019,IOT-Network,6.0,IoT,Wi-Fi
+2019,EPS-Load,6.0,pricing,MGA
+2019,IOT-Network,12.0,org,IoT
+2019,IOT-App,6.0,E-health,IoT
+2019,IOT-App,9.0,Information and Communication Technology,IoT
+2019,EPS-Store,6.0,renewable energy generation,CES
+2019,EPS-Source,6.0,injection signal synchronization,DC
+2019,EPS-Source,11.0,power generation control,DC
+2019,EPS-Grid,6.0,reliability,energy storage
+2019,IOT-App,8.0,databases,IoT
+2019,IOT-App,6.0,information-centric network,IoV
+2019,IOT-App,7.0,conceptual modeling approaches,IoT
+2019,IOT-App,7.0,Robotic Process Automation,RPA
+2019,EPS-Source,13.0,energy storage,energy storage system
+2019,IOT-Network,7.0,application case study,IoT
+2019,IOT-App,6.0,Task Level Management,IoT
+2019,IOT-App,6.0,Cyber-Triage,BLE
+2019,EPS-Load,6.0,power generation dispatch,ED
+2019,IOT-Network,6.0,Battery charge measurement,5G
+2019,EPS-Store,6.0,intermittence,CES
+2019,IOT-Network,7.0,Cryptography,IoT
+2019,IOT-Network,7.0,Cybersecurity,5G
+2019,IOT-Percept,8.0,smart living,MR
+2019,EPS-Source,6.0,Pakistan,PV
+2019,IOT-Network,6.0,matrix factorization,IoT
+2019,EPS-Store,7.0,vehicle-to-grid,EVs
+2019,IOT-Network,6.0,data compression,IoT
+2019,EPS-Source,8.0,power supply quality,DC
+2019,IOT-Percept,6.0,big data,IoT
+2019,EPS-Store,6.0,power management strategy,energy storage
+2019,EPS-Source,7.0,photovoltaic,energy storage
+2019,EPS-Source,6.0,multiport photovoltaic DC microgrid,DC
+2019,IOT-App,6.0,TCPIP,TCP
+2019,EPS-Store,6.0,Cascading contingency,BESS
+2019,EPS-Store,6.0,CES service decisions,CES
+2019,IOT-Percept,9.0,blockchain,IoT
+2019,IOT-Network,8.0,energy harvesting,WPT
+2019,IOT-Network,6.0,PHY,WSN
+2019,EPS-Store,6.0,energy transaction service,CES
+2019,EPS-Grid,8.0,microgrid stability,MG
+2019,IOT-Network,10.0,Data gathering,CS
+2019,EPS-Source,8.0,PV generators,SMES
+2019,EPS-Grid,6.0,HVDC transmission line,HVDC
+2019,IOT-Percept,9.0,deep learning,IoT
+2019,IOT-Network,6.0,4-TSCH,EB
+2019,IOT-App,9.0,Hospitality,IoT
+2019,IOT-Network,6.0,Android,IoT
+2019,EPS-Grid,8.0,Droop control,MGs
+2019,IOT-App,9.0,ISM,IoT
+2019,IOT-App,13.0,Simulation,IoT
+2019,EPS-Source,6.0,smart microgrid,MG
+2019,IOT-Network,6.0,IIoT,EB
+2019,EPS-Load,6.0,economic operation,ED
+2019,IOT-Network,6.0,Instruments,5G
+2019,IOT-Network,7.0,Machine Learning Cloud Computing,IoT
+2019,IOT-Network,6.0,Quantum walks,5G
+2019,IOT-Network,6.0,topology,TGO
+2019,IOT-Percept,6.0,spiking computing,3D
+2019,IOT-App,8.0,computer security,IoT
+2019,EPS-Source,6.0,reactive power,DC
+2019,IOT-Percept,8.0,Internet of Things,HAL
+2019,IOT-Percept,8.0,research and development (R&D) guide,MR
+2019,EPS-Store,7.0,particle swarm optimization,energy storage
+2019,IOT-App,6.0,Cybersecurity,BLE
+2019,EPS-Grid,8.0,THD,MG
+2019,EPS-Source,8.0,Energy management,PV
+2019,IOT-Percept,25.0,machine learning,IoT
+2019,IOT-Network,10.0,Internet of things,CS
+2019,IOT-Network,6.0,Roads,IoV
+2019,EPS-Source,9.0,PV,power management
+2019,IOT-App,8.0,Power Saving Mode,eMTC
+2019,IOT-App,8.0,Semantic Web,IoT
+2019,IOT-App,6.0,ML,BLE
+2019,EPS-Source,6.0,electric vehicles,DC
+2019,IOT-Network,7.0,mMTC,IoT
+2019,EPS-Load,6.0,distributed power generation,ED
+2019,IOT-App,6.0,Energy Consumption,IoT
+2019,EPS-Store,6.0,electric power generation,CES
+2019,IOT-App,6.0,5G optical transport networks,Internet of Vehicles
+2019,EPS-Grid,8.0,Cyber security,FDI
+2019,EPS-Load,6.0,optimal bidding strategy,MGA
+2019,IOT-Network,6.0,hot spot problem,IoT
+2019,EPS-Source,9.0,Intermediaries,DSR
+2019,IOT-Network,6.0,network security,DT
+2019,IOT-Compute,6.0,Machine Learning,AI
+2019,IOT-Network,9.0,AVISPA,IoT
+2019,IOT-App,6.0,Side-Channel Analysis,IoT
+2019,IOT-App,9.0,Smart Tourism,IoT
+2019,EPS-Source,8.0,energy management system,energy storage
+2019,IOT-Percept,7.0,challenges and research opportunities,IoT
+2019,IOT-App,8.0,RFID system,HAL
+2019,EPS-Grid,7.0,Distributed generation,PF
+2019,IOT-App,6.0,random access,RAP
+2019,IOT-Percept,7.0,cyber-physical systems,IoT
+2019,IOT-Percept,10.0,Cloud computing,IoT
+2019,IOT-App,6.0,malware attacks on the Internet of Things,IoT
+2019,IOT-Network,6.0,Antenna measurements,5G
+2019,EPS-Grid,7.0,power distribution faults,DC
+2019,IOT-Network,6.0,energy aware,IoT
+2019,EPS-Source,9.0,Demand side response,DSR
+2019,IOT-Compute,8.0,OneM2M,IoT
+2019,EPS-Store,6.0,pricing,CES
+2019,IOT-Network,13.0,Internet of Things,LoRa
+2019,EPS-Store,9.0,Battery energy storage systems,BESS
+2019,EPS-Source,8.0,microgrids,MG
+2019,IOT-App,7.0,service-oriented modeling,IoT
+2019,IOT-Network,8.0,motion artifacts,CR
+2019,IOT-App,8.0,extended Discontinuous Reception,eMTC
+2019,IOT-Network,11.0,CoAP,IoT
+2019,IOT-App,6.0,IoT security framework,IoT
+2019,IOT-App,6.0,IoT malware exploitation attack,IoT
+2019,IOT-App,8.0,Learning environment,IoT
+2019,IOT-App,10.0,DDS,IoT
+2019,IOT-App,6.0,medical devices,IoT
+2019,IOT-Network,8.0,medical Internet of Things,CR
+2019,EPS-Source,6.0,Deep learning,PV
+2019,EPS-Source,6.0,multi-agent system,MG
+2019,EPS-Source,8.0,demand response,energy storage
+2019,IOT-Network,7.0,IoT test bed,IoT
+2019,IOT-App,8.0,security model,Internet of Things
+2019,EPS-Grid,6.0,Voltage,HVDC
+2019,IOT-App,6.0,context weight,IoV
+2019,IOT-App,6.0,Highway,PTZ
+2019,IOT-App,6.0,intelligent transportation systems,IoV
+2019,IOT-Percept,9.0,energy efficiency,IoT
+2019,IOT-Network,10.0,Chicken swarm optimization algorithm,CS
+2019,IOT-App,7.0,Artificial intelfigence,RPA
+2019,EPS-Load,6.0,fully distributed manner,ED
+2019,IOT-Network,6.0,Heterogeneity,WSN
+2019,IOT-Network,7.0,network intrusion detection,IoT
+2019,IOT-App,8.0,SSS(Secondary Synchronization Signal),eMTC
+2019,IOT-Network,7.0,Task offloading,IoT
+2019,IOT-App,6.0,Testing,IoT
+2019,IOT-Percept,8.0,Information processing,HAL
+2019,IOT-Percept,8.0,Traffic,HAL
+2019,IOT-Network,6.0,SWIPT,RF
+2019,EPS-Load,6.0,islanded MG,ED
+2019,EPS-Load,6.0,power generation control,ED
+2019,IOT-Network,6.0,Batteries,5G
+2019,IOT-Percept,6.0,Neural-network,3D
+2019,EPS-Source,6.0,power generation control,power management
+2019,IOT-App,6.0,next-generation network,IoV
+2019,IOT-Network,6.0,large scale wireless sensor network,wireless sensor networks
+2019,EPS-Grid,8.0,power distribution systems,FDI
+2019,IOT-Network,8.0,reflectance photo-plethysmography,CR
+2019,IOT-Compute,6.0,adaptive access method,IoT
+2019,EPS-Grid,7.0,smart grid,LoRa
+2019,IOT-Compute,8.0,ETSI,IoT
+2019,IOT-Compute,7.0,Big Data,IoT
+2019,EPS-Load,6.0,distributed noise-resilient economic dispatch strategy,ED
+2019,EPS-Source,7.0,energy storage system,MG
+2019,EPS-Store,6.0,energy storage utilisation,CES
+2019,EPS-Load,6.0,Power quality disturbances,power quality
+2019,IOT-Compute,7.0,Device capability profiling,IoT
+2019,IOT-App,8.0,Computing offloading,IoT
+2019,EPS-Store,10.0,Microgrid,BESS
+2019,IOT-Compute,8.0,cloud platform,IoT
+2019,IOT-App,7.0,AES,IoT
+2019,IOT-App,6.0,security guidelines,IoT
+2019,EPS-Load,6.0,optimisation,MGA
+2019,IOT-Network,8.0,Authentication,5G
+2019,EPS-Source,6.0,harmonic injection,DC
+2019,IOT-Network,11.0,5G network,5G
+2019,EPS-Grid,6.0,magnetic sensing,HVDC
+2019,EPS-Load,6.0,MGs,MGA
+2019,EPS-Source,9.0,Institutional innovation,DSR
+2019,IOT-Network,6.0,Clustering,WSN
+2019,IOT-App,6.0,Artificial Intelligence,BLE
+2019,IOT-Compute,6.0,Data mining,Industry 4.0
+2019,IOT-App,6.0,Classification,IoT
+2019,IOT-Network,6.0,Log file,IoT
+2019,IOT-Compute,9.0,Software defined radio,IoT
+2019,EPS-Store,6.0,DES,CES
+2019,EPS-Source,6.0,islanding operation state,DC
+2019,EPS-Source,6.0,economic dispatch,MG
+2019,EPS-Source,7.0,neighborhood based differential evolution technique,PV
+2019,EPS-Source,13.0,photovoltaic power systems,PV
+2019,IOT-Percept,7.0,sensors,IoT
+2019,IOT-App,17.0,L1-norm PCA,IoT
+2019,EPS-Source,8.0,renewable energy sources,PV
+2019,EPS-Source,10.0,photovoltaics,PV
+2019,IOT-App,6.0,interest semantic reasoning based fog firewall,IoV
+2019,IOT-Percept,6.0,IOT,IoT
+2019,IOT-App,6.0,Threats to the IoT,IoT
+2019,IOT-Network,6.0,security,Internet of Things
+2019,EPS-Source,15.0,power grids,DC
+2019,IOT-Compute,9.0,privacy-preserving,IoT
+2019,EPS-Load,6.0,integrated demand response,ICES
+2019,EPS-Source,6.0,Electricity tariffs,MGs
+2019,IOT-Network,14.0,Reinforcement learning,IoT
+2019,EPS-Source,7.0,high penetration,DC
+2019,IOT-Network,6.0,resolution reduction,IoT
+2019,EPS-Load,6.0,distributed power generation,MGA
+2019,EPS-Source,6.0,power generation reliability,DC
+2019,IOT-Percept,6.0,IoT security,IoT
+2019,IOT-Network,6.0,Real-time wireless networks,D-2-PaS
+2019,IOT-App,7.0,Security requirements,IoT
+2019,IOT-Compute,10.0,data integrity,IoT
+2019,IOT-App,6.0,Smart global village,PTZ
+2019,IOT-App,6.0,Auto-calibration,PTZ
+2019,IOT-Network,45.0,5G,IoT
+2019,IOT-App,6.0,Privacy Permission,IoT
+2019,IOT-App,7.0,Communication robot,RPA
+2019,EPS-Source,7.0,distributed power generation,MGs
+2019,EPS-Store,6.0,energy trading decisions,CES
+2019,IOT-Network,6.0,Power measurement,5G
+2019,IOT-Network,7.0,VANETs,IoV
+2019,IOT-Network,10.0,ZigBee,IoT
+2019,EPS-Grid,12.0,smart grid,FDI
+2019,IOT-Network,8.0,cardiac management,CR
+2019,EPS-Store,6.0,secondary cells,CES
+2019,IOT-App,6.0,Device pairing,IoT
+2019,EPS-Source,25.0,DC microgrid,DC
+2019,IOT-App,8.0,Microservices,IoT
+2019,IOT-App,7.0,Demand Response,IoT
+2019,EPS-Grid,6.0,resilience,energy storage
+2019,EPS-Store,6.0,uncertainty,CES
+2019,IOT-Network,13.0,wireless power transfer,IoT
+2019,IOT-App,7.0,Internet of Things,RPA
+2019,IOT-Compute,8.0,mobile ad hoc networks,IoT
+2019,EPS-Source,7.0,photovoltaic systems,PV
+2019,EPS-Source,7.0,Wind power,MG
+2019,IOT-App,7.0,contract-based modeling,IoT
+2019,IOT-Network,10.0,Plain-CS,CS
+2019,IOT-App,6.0,attack methodology,IoT
+2019,IOT-Network,6.0,channel detection and allocation,IoV
+2019,IOT-Network,7.0,MANET,IoV
+2019,IOT-App,17.0,Network forensics,IoT
+2019,EPS-Load,6.0,robust optimisation,MGA
+2019,IOT-Network,6.0,quality of service,TGO
+2019,IOT-App,6.0,Cyber Medicine,BLE
+2019,IOT-App,6.0,smart transportation,IoT
+2019,IOT-Network,10.0,GSM,IoT
+2019,EPS-Source,6.0,stability,DC
+2019,EPS-Load,6.0,price-taker MGA,MGA
+2019,IOT-App,6.0,information-centric Internet of vehicles,IoV
+2019,IOT-Network,6.0,Quantum hash function,5G
+2019,EPS-Grid,8.0,total harmonic distortion,MG
+2019,IOT-App,6.0,transport protocols,TCP
+2019,IOT-Network,8.0,Smart Home,IoT
+2019,EPS-Store,6.0,smart grid,electric vehicle
+2019,IOT-App,7.0,network-based modeling,IoT
+2019,EPS-Grid,8.0,multiphase and unbalanced systems,FDI
+2019,EPS-Store,6.0,high investment cost,CES
+2019,IOT-Network,7.0,WPT,RF
+2019,IOT-Network,6.0,edge computing,Internet of Things
+2019,IOT-Compute,6.0,Verifiable Data Outsourcing,IoT
+2019,EPS-Source,6.0,disturbance intensity,DC
+2019,EPS-Grid,8.0,state estimation,FDI
+2019,IOT-Network,9.0,Data privacy,IoT
+2019,EPS-Store,6.0,energy management systems,CES
+2019,IOT-Compute,8.0,Anonymity,IoT
+2019,IOT-Percept,19.0,IoT platform,IoT
+2019,IOT-Network,9.0,power splitting,IoT
+2019,EPS-Store,6.0,HESS,energy storage system
+2019,EPS-Grid,6.0,NMGs,energy storage
+2019,IOT-App,6.0,Vanishing point,PTZ
+2019,IOT-App,7.0,linked data,IoT
+2019,IOT-Compute,6.0,Apriori algorithm,Industry 4.0
+2019,EPS-Load,6.0,robust bidding strategies,MGA
+2019,IOT-Network,8.0,5G,mmWave
+2019,IOT-Network,6.0,Collaboration IoT-based RBAC,IoT
+2019,IOT-Compute,6.0,Big data,Industry 4.0
+2019,EPS-Grid,8.0,modulated power filter compensator,MG
+2019,IOT-Percept,14.0,Internet-of-Things,IoT
+2019,IOT-Network,8.0,Named Data Networking,IoT
+2019,IOT-App,7.0,Socio-technical ecosystem,IoT
+2019,IOT-App,6.0,heterogeneous networks,TCP
+2019,IOT-App,8.0,UX design,IoT
+2019,IOT-Network,6.0,Authorization,IoT
+2019,IOT-Network,23.0,NB-IoT,IoT
+2019,EPS-Grid,7.0,Distribution power flow,PF
+2019,IOT-Network,7.0,Delay,IoT
+2019,IOT-Network,6.0,Packet,WSN
+2019,IOT-Compute,7.0,Attributes,IoT
+2019,IOT-Percept,7.0,wildfire management,IoT
+2019,IOT-Network,6.0,WSN-assisted IoT,IoT
+2019,EPS-Source,7.0,distributed generation,MG
+2019,EPS-Source,6.0,multiPV DC microgrid,DC
+2019,IOT-App,6.0,SMART First Responders,BLE
+2019,IOT-Percept,7.0,named data networks,IoT
+2019,IOT-App,6.0,semantic obfuscation,IoV
+2019,EPS-Source,17.0,microgrid,PV
+2019,EPS-Source,7.0,Uncertainty,MG
+2019,IOT-Network,8.0,network virtualization,IoT
+2019,IOT-Network,8.0,deep reinforcement learning,IoT
+2019,EPS-Load,6.0,market prices,MGA
+2019,IOT-Network,10.0,Compressive sensing matrix,CS
+2019,IOT-Network,6.0,mobile networks,DT
+2019,EPS-Load,6.0,Fog computing,SG
+2019,IOT-App,8.0,vulnerabilities,Internet of Things
+2019,IOT-Network,9.0,w3,IoT
+2019,IOT-App,7.0,IoT-Internet-of-Things,IoT
+2019,IOT-Compute,9.0,Electromagnetic side-channel attacks,IoT
+2019,IOT-Network,6.0,C4.5,5G
+2019,IOT-Network,6.0,graph optimization,TGO
+2019,IOT-Network,6.0,authentication,IoT
+2019,IOT-Network,14.0,Machine learning,IoT
+2019,IOT-Network,6.0,Massive IoT application,IoT
+2019,EPS-Store,6.0,energy storage requirements,CES
+2019,EPS-Source,7.0,wind turbine,PV
+2019,IOT-Network,8.0,heart rate,CR
+2019,EPS-Source,6.0,Renewable energy,MGs
+2019,EPS-Grid,8.0,false data injection attacks,FDI
+2019,EPS-Store,6.0,Voltage recovery performance,BESS
+2019,EPS-Load,7.0,game theory,DCs
+2019,IOT-Network,6.0,Security protocols,5G
+2019,IOT-App,8.0,improvement inventory operations,HAL
+2019,EPS-Source,6.0,renewable energy,PV
+2019,IOT-Network,12.0,UAV,UAVs
+2019,IOT-Network,6.0,decision tree algorithm,5G
+2019,EPS-Source,6.0,Photo-voltaic,PV
+2019,IOT-Compute,6.0,energy optimization,Internet of Medical Things
+2019,IOT-App,6.0,Continuous authentication,IoT
+2019,EPS-Source,6.0,system operation,PV
+2019,EPS-Source,6.0,Energy management,MGs
+2019,EPS-Source,6.0,impedance measurement IDM,DC
+2019,EPS-Source,6.0,DC network,DC
+2019,EPS-Store,6.0,energy storage capacity,CES
+2019,IOT-Network,6.0,Protocol,WSN
+2019,IOT-Network,7.0,Internet of Things,network slicing
+2019,IOT-Network,10.0,4G and 5G,IoT
+2019,IOT-App,17.0,IoT forensics,IoT
+2019,EPS-Source,6.0,DC-DC converters,DC
+2019,IOT-Network,6.0,disturbances,D-2-PaS
+2019,EPS-Load,8.0,Smart grid,power quality
+2019,IOT-App,6.0,Internet of Things application,IoT
+2019,EPS-Store,6.0,improved CES model,CES
+2019,IOT-Network,6.0,Energy consumption monitoring,IoT
+2019,EPS-Load,7.0,smart grid,DCs
+2019,EPS-Store,6.0,ESS,CES
+2019,EPS-Load,7.0,renewable energy,DCs
+2019,EPS-Source,6.0,Renewable Energy Sources,PV
+2019,IOT-App,7.0,Participatory sensing,IoT
+2019,IOT-Network,6.0,Data forwarding,IoT
+2019,IOT-App,6.0,computer network security,IoV
+2019,EPS-Load,6.0,Demand management,power quality
+2019,IOT-App,6.0,optical networking,Internet of Vehicles
+2019,IOT-Percept,7.0,system architecture,IoT
+2019,IOT-Network,6.0,peer to peer network,TGO
+2019,IOT-Network,10.0,data rates,IoT
+2019,EPS-Load,6.0,optimal transactions,MGA
+2019,IOT-Network,6.0,Internet,IoV
+2019,IOT-Network,6.0,Gateway,IoT
+2019,IOT-App,6.0,content big data,IoV
+2019,IOT-App,7.0,Motion-based Control,IoT
+2019,IOT-App,6.0,distributed system,IoT
+2019,IOT-App,7.0,Gesture Recognition,IoT
+2019,IOT-Percept,8.0,roadmap,MR
+2019,EPS-Store,6.0,users,CES
+2019,IOT-App,6.0,IoT,RAs
+2019,IOT-Network,8.0,Ethereum,IoT
+2019,EPS-Source,6.0,Zero energy communities,PV
+2019,EPS-Load,6.0,power generation economics,ED
+2019,EPS-Source,7.0,renewable energy resources,MG
+2019,IOT-Network,6.0,primary user activity,IoV
+2019,IOT-Compute,6.0,Bio-gateway,Internet of Medical Things
+2019,IOT-App,13.0,learning (artificial intelligence),IoT
+2019,IOT-App,6.0,knowledge graph,IoV
+2019,IOT-Compute,6.0,Internet of Things,AI
+2019,EPS-Load,6.0,price-maker microgrid aggregator,MGA
+2019,IOT-App,18.0,dimensionality reduction,IoT
+2019,EPS-Source,6.0,power electronic devices,DC
+2019,IOT-App,7.0,IoT programming platforms,IoT
+2019,EPS-Source,6.0,active power injection methods,DC
+2019,EPS-Source,7.0,dynamic load dispatch,PV
+2019,EPS-Source,6.0,renewable energy sources,DG
+2019,IOT-Network,12.0,www,IoT
+2019,EPS-Source,9.0,Smart grids,DSR
+2019,IOT-Network,6.0,trusted authority,IoV
+2019,IOT-App,18.0,Distance measurement,IoT
+2019,IOT-Network,7.0,heterogeneous IoT,IoT
+2019,IOT-App,8.0,Adaptive job allocation,IoT
+2019,EPS-Load,6.0,WCVaR theory,ICES
+2019,IOT-Percept,7.0,search engine,IoT
+2019,IOT-App,6.0,Feature Extraction,IoT
+2019,IOT-Percept,6.0,general purpose processors,SPARCE
+2019,EPS-Source,6.0,multiple photovoltaic sources,DC
+2019,EPS-Source,6.0,coordinated control,WTG
+2019,EPS-Source,6.0,photovoltaic power systems,DC
+2019,EPS-Store,6.0,Reactive power margin,BESS
+2019,IOT-App,6.0,IoT,information technology
+2019,IOT-Network,6.0,robot control,DT
+2019,IOT-App,6.0,embedded system,ML
+2019,IOT-App,7.0,ambient-oriented modeling,IoT
+2019,EPS-Source,6.0,power grids,power management
+2019,IOT-App,8.0,threats,Internet of Things
+2019,IOT-App,6.0,Health service,IoT
+2019,EPS-Load,6.0,robust solution,MGA
+2019,EPS-Source,11.0,Microgrid,PV
+2019,EPS-Grid,7.0,Smart Transformer,ST
+2019,EPS-Source,9.0,DC microgrid,PV
+2019,IOT-Percept,9.0,Software engineering,IoT
+2019,IOT-Percept,6.0,fabrics,SiNW
+2019,IOT-Network,6.0,reliability,IoT
+2019,IOT-Compute,6.0,tele-medicine,Internet of Medical Things
+2019,IOT-App,6.0,vulnerabilities,IoT
+2019,IOT-App,11.0,network security,IoT
+2019,EPS-Store,6.0,power generation,CES
+2019,IOT-Network,9.0,mobile edge computing,IoT
+2019,EPS-Source,6.0,renewable energy sources,power management
+2019,IOT-Network,9.0,SNR and SIR thresholds,LoRa
+2019,IOT-Network,6.0,Security,WSN
+2019,IOT-Network,10.0,efficiency,IoT
+2019,IOT-App,8.0,LPWA,eMTC
+2019,EPS-Load,6.0,distributed generators,ED
+2019,EPS-Source,6.0,immune system algorithm,MG
+2019,IOT-App,8.0,Web of Things,IoT
+2019,IOT-Percept,8.0,Data acquisition,HAL
+2019,IOT-Percept,11.0,Sensors,IoT
+2019,IOT-Percept,7.0,load sensor,LPG
+2019,EPS-Source,7.0,DC microgrids,DC
+2019,IOT-Network,9.0,Bluetooth Low Energy,BLE
+2019,IOT-App,6.0,VR PTSD,BLE
+2019,EPS-Load,6.0,power markets,MGA
+2019,IOT-App,6.0,3D vehicle model,PTZ
+2019,EPS-Store,6.0,alternative form,CES
+2019,IOT-Network,8.0,industrial IoT network,IoT
+2019,EPS-Grid,8.0,inverter control strategies,MG
+2019,EPS-Source,6.0,synchronisation,DC
+2019,EPS-Grid,7.0,ZIP load model,PF
+2019,IOT-App,6.0,operating systems,TCP
+2019,IOT-App,15.0,Forensics,IoT
+2019,EPS-Load,6.0,consensus algorithm,ED
+2019,EPS-Grid,6.0,magnetoresistive sensor,HVDC
+2019,IOT-App,12.0,Internet of Things,information technology
+2019,IOT-App,7.0,Cloud Server,IoT
+2019,IOT-Network,7.0,Sensor Mesh Networks,IoT
+2019,IOT-App,6.0,Smart medicine,reinforcement learning
+2019,IOT-Network,20.0,URLLC,IoT
+2019,IOT-App,8.0,eDRX,eMTC
+2019,IOT-Network,8.0,Internet of Things,SCC
+2019,IOT-Network,9.0,coverage probability,LoRa
+2019,IOT-App,7.0,Hash proof system,IoT
+2019,EPS-Load,6.0,profitability,MGA
+2019,EPS-Store,6.0,power interaction,CES
+2019,IOT-Percept,7.0,5G and beyond networks,IoT
+2019,IOT-App,7.0,EDHOC,IoT
+2019,IOT-Network,6.0,hidden markov model,IoV
+2019,IOT-Percept,8.0,WSN,IoT
+2019,IOT-Network,13.0,Smart devices,IoT
+2019,IOT-Network,6.0,key management,IoT
+2019,IOT-Network,6.0,performance analysis,wireless sensor networks
+2019,EPS-Source,6.0,forecasting,MG
+2019,IOT-Percept,10.0,sensor data,IoT
+2019,EPS-Load,6.0,peer-to-peer communication,ED
+2019,EPS-Load,6.0,pool-based electricity market,MGA
+2019,EPS-Source,6.0,failure analysis,DC
+2019,IOT-App,6.0,optical switching,Internet of Vehicles
+2019,IOT-Network,10.0,PLC,IoT
+2019,IOT-Network,8.0,5G,UAVs
+2019,IOT-Network,7.0,IoT authentication,IoT
+2019,IOT-Network,10.0,Reinforcement Learning,IoT
+2019,IOT-Network,6.0,Performance evaluation,LoRa
+2019,IOT-Percept,7.0,Hidden Markov Model,IoT
+2019,EPS-Store,11.0,Battery,energy storage
+2019,EPS-Source,6.0,releasable and absorbable energy,WTG
+2019,IOT-Percept,6.0,waste management,IoT
+2019,IOT-Network,6.0,simultaneous wireless information and power transfer,RF
+2019,IOT-Compute,6.0,Internet of Things,UAVs
+2019,IOT-App,6.0,Graph Theory,IoT
+2019,IOT-Network,7.0,Narrow-band IoT,IoT
+2019,IOT-Network,12.0,Authentication,IoV
+2019,IOT-App,8.0,tracking system,HAL
+2019,IOT-Network,6.0,IoT communication,IoT
+2019,EPS-Source,6.0,Business models,MGs
+2019,IOT-Network,6.0,6LoWPAN,IPv6
+2019,IOT-App,6.0,Runtime Monitoring,IoT
+2019,IOT-App,9.0,Smart objects,IoT
+2019,EPS-Source,6.0,renewable energy,energy storage
+2019,IOT-App,7.0,D2D-Device-to-Device,IoT
+2019,IOT-App,7.0,Robotics,IoT
+2019,IOT-App,18.0,Global Positioning System,IoT
+2019,IOT-Network,6.0,multi-armed bandit,IoT
+2019,IOT-Network,7.0,bit allocation,IoT
+2019,EPS-Load,7.0,Stackelberg game,DCs
+2019,IOT-Network,8.0,green IoT,IoT
+2019,IOT-Network,6.0,IEEE802,EB
+2019,EPS-Source,6.0,wind turbines,DG
+2019,IOT-App,7.0,Vector encryption,IoT
+2019,IOT-Compute,8.0,virtual object,IoT
+2019,EPS-Store,7.0,Stackelberg game,EVs
+2019,IOT-Network,6.0,eMBB,IoT
+2019,IOT-App,8.0,CDM(Code Division Multiplex),eMTC
+2019,IOT-App,6.0,Big Data,IoV
+2019,EPS-Grid,7.0,Graph theory,PF
+2019,EPS-Load,6.0,stochastic processes,ED
+2019,IOT-App,6.0,collision probability,RAP
+2019,IOT-App,6.0,Multicriteria analysis,IoT
+2019,IOT-Network,14.0,Wireless Networks,IoT
+2019,IOT-Network,7.0,Node-RED,IoT
+2019,IOT-Network,11.0,IoT,outage probability
+2019,IOT-Network,8.0,Blockchain,IoT
+2019,IOT-Compute,6.0,Fault Tolerance,IoT
+2019,IOT-Network,9.0,network capacity planning,LoRa
+2019,IOT-App,7.0,semantic interoperability,IoT
+2019,EPS-Load,6.0,bidding behaviour,MGA
+2019,EPS-Source,7.0,microgrid,power management
+2019,IOT-Compute,6.0,IoT,FPGA
+2019,EPS-Source,9.0,Receptivity,DSR
+2019,EPS-Source,6.0,battery,energy storage
+2019,IOT-App,7.0,Voice-based Control,IoT
+2019,IOT-App,6.0,Information Security,IoT
+2019,IOT-Network,15.0,LoRa modulation,LoRa
+2019,IOT-Network,6.0,Authentication,RSU
+2019,EPS-Store,8.0,Smart city,EVs
+2019,IOT-Network,6.0,Hidden Markov models,IoV
+2019,IOT-App,8.0,warehouse management,HAL
+2019,EPS-Source,7.0,Microgrid,energy storage
+2019,EPS-Load,6.0,optimal scheduling,MGA
+2019,IOT-App,6.0,optical transport system,Internet of Vehicles
+2019,IOT-Compute,6.0,Decentralization,IoT
+2019,IOT-App,6.0,Medical Internet of Things,reinforcement learning
+2019,IOT-App,6.0,content-oriented attributes,IoV
+2019,EPS-Source,6.0,DC systems,DC
+2019,IOT-App,6.0,anomaly detection,ML
+2019,EPS-Source,10.0,energy management system,MG
+2019,IOT-App,7.0,Living lab approach,IoT
+2019,EPS-Source,8.0,state of charge,SMES
+2019,EPS-Store,6.0,renewable energy sources,CES
+2019,IOT-App,6.0,adoption,IoT
+2019,IOT-Percept,14.0,edge computing,IoT
+2019,IOT-Network,8.0,wireless power transfer,WPT
+2019,IOT-Percept,7.0,Wireless sensor networks,IoT
+2019,IOT-Network,8.0,RF energy harvesting,RF
+2019,IOT-Compute,7.0,Autonomous Systems,IoT
+2019,EPS-Source,9.0,energy storage,PV
+2019,IOT-Compute,6.0,CPS,Industry 4.0
+2019,IOT-Compute,6.0,eHealth,Internet of Medical Things
+2019,IOT-App,8.0,User behavior pattern,IoT
+2019,EPS-Grid,7.0,LoRaWAN,LoRa
+2019,IOT-Network,6.0,virtual reality,DT
+2019,EPS-Store,6.0,traditional CES service mechanism,CES
+2019,EPS-Source,6.0,transmit reactive power,DC
+2019,IOT-Network,10.0,Hybrid-CS,CS
+2019,EPS-Source,8.0,microgrid,energy storage
+2019,IOT-App,6.0,internetworking,TCP
+2019,IOT-Percept,7.0,data mining and analytics,IoT
+2019,EPS-Store,9.0,smart grid,EVs
+2019,IOT-App,7.0,Home Energy Management Systems,IoT
+2019,EPS-Source,6.0,PV sources,DC
+2019,IOT-Percept,6.0,Internet of Things,RFID
+2019,EPS-Load,6.0,Monte Carlo methods,ED
+2019,IOT-App,8.0,access control,IoT
+2019,IOT-Network,6.0,Energy state monitoring system,IoT
+2019,EPS-Source,13.0,smart grid,energy storage
+2019,EPS-Grid,6.0,networked microgrids,energy storage
+2019,IOT-Network,6.0,Role-based access control,IoT
+2019,IOT-Network,6.0,Digital twin,DT
+2019,IOT-Percept,8.0,Feature extraction,HAL
+2019,IOT-Network,6.0,network formation,EB
+2019,IOT-Compute,7.0,Energy management,IoT
+2019,IOT-Network,8.0,IoT,network slicing
+2019,IOT-App,6.0,Do-It-Yourself,IoT
+2019,IOT-Percept,7.0,GSM module,LPG
+2019,EPS-Source,6.0,power system harmonics,DC
+2019,IOT-App,6.0,Augmented reality,IoT
+2019,EPS-Source,6.0,power system reliability,DR
+2019,IOT-Network,6.0,link uncertainty,wireless sensor networks
+2019,IOT-App,6.0,PTZ camera,PTZ
+2019,IOT-App,8.0,IoT Applications,IoT
+2019,EPS-Store,6.0,demand side management,CES
+2019,IOT-Network,6.0,frame aggregation,wireless sensor networks
+2019,IOT-Network,8.0,3GPP,5G
+2019,EPS-Load,6.0,Electrical power quality,power quality
+2019,IOT-Percept,8.0,IoT,MR
+2019,IOT-App,6.0,Fuzzy analytical hierarchy process,IoT
+2019,IOT-App,8.0,CIoT,eMTC

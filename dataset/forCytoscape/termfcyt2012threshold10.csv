@@ -1,0 +1,39 @@
+YEAR,DOMS,COUNT,SN,TN
+2012,EPS-Store,6.0,fuzzy logic controller,EVs
+2012,EPS-Source,7.0,grid integration,PV
+2012,EPS-Grid,6.0,electricity markets,FACTS
+2012,IOT-Percept,6.0,RFID,Internet of Things
+2012,EPS-Store,6.0,HVAC control,PHEV
+2012,EPS-Source,7.0,PV simulation,PV
+2012,EPS-Source,7.0,Micro-grid,DC
+2012,IOT-Percept,6.0,Pricing model,IoT
+2012,EPS-Load,6.0,Demand Response,DR
+2012,EPS-Store,8.0,Smart Grid,electric vehicle
+2012,EPS-Grid,6.0,transmission markets,FACTS
+2012,EPS-Source,6.0,Built environment,PV
+2012,EPS-Store,6.0,Home energy management,PHEV
+2012,EPS-Source,8.0,Smart grid,PV
+2012,EPS-Store,6.0,vehicle to grid,EVs
+2012,EPS-Grid,6.0,admittance pricing,FACTS
+2012,IOT-App,6.0,privacy,IoT
+2012,EPS-Source,6.0,Intermittence,PV
+2012,EPS-Store,6.0,demand response,PHEV
+2012,IOT-Network,7.0,IoT,M2M
+2012,IOT-Percept,6.0,Dynamic routing,IoT
+2012,EPS-Store,6.0,Charging station,EVs
+2012,EPS-Store,6.0,Smart grid,PHEVs
+2012,EPS-Load,6.0,load shedding,DR
+2012,EPS-Grid,6.0,FACTS devices,FACTS
+2012,EPS-Source,6.0,smart grid,energy storage
+2012,EPS-Store,7.0,plug-in hybrid electric vehicle,PHEVs
+2012,EPS-Grid,6.0,SFE,FACTS
+2012,EPS-Source,7.0,PV power prediction,PV
+2012,EPS-Source,7.0,Battery energy storage,DC
+2012,EPS-Store,6.0,stochastic optimization,PHEV
+2012,EPS-Grid,6.0,Supply Function Equilibrium,FACTS
+2012,EPS-Load,6.0,frequency restoration,DR
+2012,EPS-Store,7.0,smart grid,PHEVs
+2012,EPS-Source,7.0,irradiance prediction,PV
+2012,IOT-Percept,6.0,Heterogeneous communication,IoT
+2012,EPS-Store,6.0,model predictive control,PHEV
+2012,EPS-Source,6.0,Modelling,PV

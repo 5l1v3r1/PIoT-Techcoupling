@@ -1,0 +1,25 @@
+YEAR,DOMS,COUNT,SN,TN
+2011,IOT-Percept,6.0,Mobile devices,RFID
+2011,EPS-Source,6.0,fuzzy control,DC
+2011,EPS-Load,6.0,security,SG
+2011,EPS-Source,6.0,DC distribution,DC
+2011,IOT-Percept,6.0,Internet of things,RFID
+2011,EPS-Grid,7.0,HTS cable,HTS
+2011,EPS-Source,6.0,micro-grid system,DC
+2011,EPS-Load,7.0,smart grids,DR
+2011,IOT-Percept,6.0,Middleware RFID,RFID
+2011,EPS-Source,6.0,fuzzy neural,DC
+2011,EPS-Source,7.0,Energy fraction,PV
+2011,EPS-Grid,7.0,IEC 61850,IEC
+2011,EPS-Source,7.0,PV Generator,PV
+2011,IOT-Percept,6.0,Pervasive computing,RFID
+2011,EPS-Grid,6.0,Smart Grid,IoT
+2011,EPS-Source,6.0,DC Micro-grid,DC
+2011,EPS-Load,6.0,temperature adjust,DR
+2011,EPS-Load,6.0,benefits analysis,DR
+2011,IOT-Percept,6.0,Embedded framework,RFID
+2011,EPS-Load,6.0,air-conditioning,DR
+2011,EPS-Source,6.0,automatic generation system,DC
+2011,EPS-Source,9.0,Microgrid,PV
+2011,EPS-Source,7.0,Performance evaluation,PV
+2011,EPS-Store,6.0,PHEV,PHEVs

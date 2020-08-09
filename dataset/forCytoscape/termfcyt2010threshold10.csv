@@ -1,0 +1,16 @@
+YEAR,DOMS,COUNT,SN,TN
+2010,EPS-Grid,6.0,voltage source converter,HVDC
+2010,EPS-Grid,6.0,HVDC light,HVDC
+2010,EPS-Grid,6.0,grid voltage support control,HVDC
+2010,EPS-Grid,6.0,power transfer control,HVDC
+2010,EPS-Grid,6.0,reactive power control,HVDC
+2010,EPS-Grid,7.0,Synchronous Generator,DG
+2010,IOT-Percept,7.0,RFID,IoT
+2010,EPS-Grid,6.0,modeling and simulation,HVDC
+2010,EPS-Source,6.0,microgrid,PV
+2010,EPS-Grid,7.0,Voltage Stability,DG
+2010,EPS-Grid,7.0,Distributed Generation,DG
+2010,EPS-Grid,7.0,Transient Stability,DG
+2010,EPS-Grid,6.0,decoupled d-q vector control,HVDC
+2010,EPS-Grid,7.0,Short Circuit Fault,DG
+2010,EPS-Grid,7.0,Rotor Angle,DG

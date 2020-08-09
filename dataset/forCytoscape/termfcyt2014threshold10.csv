@@ -1,0 +1,159 @@
+YEAR,DOMS,COUNT,SN,TN
+2014,EPS-Store,6.0,discharging,PHEVs
+2014,EPS-Source,6.0,Microgrid,dynamic economic dispatch
+2014,EPS-Store,6.0,Smart discharging control,L2
+2014,EPS-Store,6.0,Electric vehicles,L2
+2014,IOT-Network,6.0,Fixed AGTI Time-controlled Scheduling Scheme and Dynamic AGTI Time-controlled Scheduling Scheme,M2M
+2014,EPS-Source,6.0,smart grid,PV
+2014,EPS-Grid,9.0,Insulation design,DC
+2014,EPS-Grid,8.0,coordinated charging,EVs
+2014,EPS-Source,6.0,Storage,DC
+2014,IOT-Network,9.0,Contiki,IoT
+2014,IOT-Percept,9.0,IoT,RFID
+2014,EPS-Source,8.0,MPPT,PV
+2014,EPS-Grid,6.0,Shapley value,MGs
+2014,EPS-Load,6.0,wireless mesh network,PV
+2014,EPS-Store,6.0,fairness,PHEVs
+2014,IOT-Network,11.0,Wireless Sensor Network,IoT
+2014,EPS-Grid,6.0,adaptive neuro-fuzzy inference system,DC
+2014,IOT-App,7.0,participatory sensing,IoT
+2014,IOT-Network,12.0,wireless sensor networks,WSN
+2014,EPS-Load,6.0,photovoltaic system,PV
+2014,EPS-Store,6.0,state of charge,electric vehicle
+2014,IOT-Network,10.0,Mobility support,IPv6
+2014,EPS-Source,6.0,Uncertainty,dynamic economic dispatch
+2014,EPS-Store,6.0,Smart grid,vehicle-to-grid
+2014,EPS-Source,9.0,model predictive control,energy storage
+2014,EPS-Source,6.0,Wind power,DC
+2014,EPS-Source,7.0,photovoltaic,DC
+2014,EPS-Load,8.0,BACnet,DR
+2014,EPS-Store,6.0,Plug-in hybrid electric vehicles,PHEVs
+2014,EPS-Grid,9.0,renewable energy sources,DC
+2014,EPS-Store,6.0,Distributed energy resources,L2
+2014,EPS-Load,9.0,Smart Meter,SG
+2014,EPS-Source,6.0,Operation scheduling strategies,dynamic economic dispatch
+2014,EPS-Source,17.0,Microgrid,PV
+2014,EPS-Source,7.0,photovoltaic,PV
+2014,EPS-Grid,9.0,DC electric field distribution,DC
+2014,EPS-Source,6.0,Optimal operating strategy,smart microgrid
+2014,EPS-Load,6.0,smart meters,SE
+2014,EPS-Load,10.0,security,smart meter
+2014,IOT-Network,6.0,wireless sensor networks,IPv6
+2014,EPS-Store,6.0,entropy weight method,PHEVs
+2014,IOT-App,6.0,cryptographic primitives,IoT
+2014,IOT-App,7.0,mobile cloud,IoT
+2014,EPS-Store,6.0,Batteries,vehicle-to-grid
+2014,EPS-Store,6.0,neuro-dynamic programming,PHEVs
+2014,IOT-App,7.0,dynamic assessment and MDP planning,IoT
+2014,EPS-Source,6.0,Loss minimization,DC
+2014,IOT-App,9.0,web of things,Internet of Things
+2014,IOT-App,8.0,Internet of Things,WoT
+2014,EPS-Grid,6.0,phasor measurement units,DC
+2014,IOT-Network,6.0,Sensor Network Security,IoT
+2014,EPS-Load,8.0,AMI,SG
+2014,EPS-Load,6.0,financial impacts,smart meter
+2014,EPS-Store,8.0,EV,EVs
+2014,EPS-Source,6.0,Interior point,DC
+2014,EPS-Source,9.0,Smart grid,DC
+2014,EPS-Grid,6.0,artificial intelligence,DC
+2014,EPS-Load,7.0,Demand Response,smart grids
+2014,EPS-Source,6.0,Hybrid power generating system,PV
+2014,IOT-App,7.0,learning,IoT
+2014,EPS-Store,9.0,Smart grid,PEVs
+2014,IOT-Network,6.0,Machine-to-Machine Communication,M2M
+2014,EPS-Source,11.0,reliability,energy storage
+2014,EPS-Store,6.0,Smart grid,L2
+2014,EPS-Grid,7.0,PMU,energy storage
+2014,EPS-Store,7.0,Smart grid,EVs
+2014,EPS-Store,16.0,PHEV,PHEVs
+2014,EPS-Load,6.0,security economics,smart meter
+2014,EPS-Grid,8.0,optimization algorithm,EVs
+2014,EPS-Store,6.0,Power systems,L2
+2014,EPS-Store,6.0,quality of service,IoT
+2014,EPS-Grid,6.0,Back to back converter,DC
+2014,IOT-App,7.0,Environmental sensing,IoT
+2014,EPS-Source,6.0,Battery,energy storage
+2014,EPS-Source,11.0,Smart grid,DR
+2014,IOT-Percept,8.0,wireless sensor networks,Internet of Things
+2014,IOT-App,7.0,data analytics,IoT
+2014,EPS-Source,9.0,renewable energy resources,energy storage
+2014,EPS-Source,6.0,Wind and solar system,PV
+2014,EPS-Source,9.0,Bulk power system,energy storage
+2014,EPS-Source,8.0,EMCU,power quality
+2014,EPS-Store,6.0,interpolling interval,IoT
+2014,EPS-Store,6.0,power loss,PHEVs
+2014,IOT-Network,24.0,6LoWPAN,IPv6
+2014,EPS-Store,6.0,Microgrid,L2
+2014,EPS-Source,6.0,Optimization,DC
+2014,EPS-Load,7.0,Bayes Classifier,SG
+2014,EPS-Grid,9.0,DC HTS cable,DC
+2014,EPS-Source,6.0,Stochastic programming,PV
+2014,EPS-Grid,10.0,DC system,DC
+2014,IOT-App,7.0,intelligent systems,IoT
+2014,EPS-Store,6.0,Batteries,L2
+2014,EPS-Source,6.0,Monte Carlo simulation,dynamic economic dispatch
+2014,EPS-Source,6.0,Improved particle swarm optimization,dynamic economic dispatch
+2014,EPS-Grid,8.0,decentralized control,EVs
+2014,EPS-Source,6.0,Economic dispatch,DC
+2014,EPS-Load,8.0,Advanced metering,SG
+2014,IOT-App,11.0,sensor networks,IoT
+2014,EPS-Grid,6.0,wide-area synchrophasor measurements,DC
+2014,EPS-Grid,6.0,smart grid,smart meter
+2014,EPS-Store,6.0,Smart grids,IoT
+2014,EPS-Load,6.0,smart grid,SE
+2014,EPS-Source,6.0,Demand response,PV
+2014,EPS-Load,8.0,privacy,smart meter
+2014,IOT-Network,10.0,WSN,IPv6
+2014,IOT-Network,6.0,Human-to-Human communication,M2M
+2014,EPS-Load,6.0,smart grid communications,PV
+2014,IOT-Network,6.0,Zolertia Z1,IoT
+2014,IOT-App,6.0,Quantum Lifecycle Management,IoT
+2014,IOT-Network,16.0,Internet of Things,IPv6
+2014,IOT-Network,6.0,Middleware,IoT
+2014,IOT-App,7.0,semantic interoperability,IoT
+2014,EPS-Load,7.0,harmonic amplitude,SG
+2014,IOT-Percept,6.0,Architecture,IoT
+2014,EPS-Load,7.0,ANN,SG
+2014,EPS-Source,6.0,battery,energy storage
+2014,EPS-Source,8.0,microgrid,PV
+2014,IOT-Network,9.0,LTE,M2M
+2014,EPS-Grid,6.0,Coalition game,MGs
+2014,IOT-Network,6.0,internet of things,WSN
+2014,EPS-Load,7.0,Smart Meter,SMs
+2014,IOT-Network,10.0,Mobile IPv6,IPv6
+2014,IOT-App,7.0,Mobile IoT applications,IoT
+2014,EPS-Source,6.0,microgrid,DC
+2014,EPS-Source,6.0,Sensitivity analysis,smart microgrid
+2014,EPS-Source,6.0,power system reliability,PV
+2014,EPS-Grid,6.0,power system stability,DC
+2014,EPS-Load,7.0,Current Signature,SG
+2014,EPS-Load,7.0,SVM,SG
+2014,EPS-Source,6.0,energy storage,PV
+2014,EPS-Load,13.0,Demand Response,DR
+2014,EPS-Grid,6.0,cooperative game,MGs
+2014,EPS-Source,6.0,Power systems,DC
+2014,EPS-Source,6.0,Integrated bidding strategy,PV
+2014,EPS-Source,10.0,microgrid,energy storage
+2014,IOT-App,6.0,distributed access control,IoT
+2014,IOT-App,7.0,u-things,IoT
+2014,EPS-Load,8.0,smart metering,SG
+2014,EPS-Load,6.0,AMI,smart meter
+2014,EPS-Grid,6.0,IEC 61850,IEC
+2014,EPS-Grid,6.0,smart power grid,DC
+2014,EPS-Store,8.0,Frequency control,BESS
+2014,EPS-Source,6.0,SOFC,PV
+2014,EPS-Grid,6.0,smart grid,EVs
+2014,IOT-Percept,15.0,Internet of Things,RFID
+2014,EPS-Source,6.0,Energy storage,PV
+2014,EPS-Source,9.0,electric energy storage,energy storage
+2014,IOT-Network,8.0,interoperability,IoT
+2014,EPS-Load,10.0,Smart Grid,DR
+2014,EPS-Grid,6.0,micro grid,MGs
+2014,EPS-Load,6.0,Coordinated power point tracking,PV
+2014,EPS-Grid,6.0,Voltage source converter,DC
+2014,IOT-Network,7.0,WSN,Internet of Things
+2014,IOT-App,6.0,service composition,IoT
+2014,EPS-Grid,9.0,Joint box,DC
+2014,EPS-Store,6.0,WiMAX,IoT
+2014,IOT-App,6.0,SOA,IoT
+2014,EPS-Grid,6.0,Microgrid,DC

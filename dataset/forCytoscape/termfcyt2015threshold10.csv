@@ -1,0 +1,360 @@
+YEAR,DOMS,COUNT,SN,TN
+2015,IOT-Percept,6.0,Cooperative communication,BS
+2015,EPS-Grid,6.0,feedback sequence voltage,secondary frequency
+2015,EPS-Load,6.0,Pilot project,LV
+2015,IOT-Network,6.0,Sensor Observation Service,IoT
+2015,EPS-Source,6.0,micro-grid,PV
+2015,EPS-Load,7.0,implementation,DRM
+2015,IOT-Percept,6.0,OBD2,CEP
+2015,IOT-Percept,6.0,Wireless Sensor Network,IoT
+2015,EPS-Source,10.0,ESS,energy storage
+2015,IOT-Compute,6.0,Interoperable Data Processing,D2D
+2015,IOT-Network,6.0,industry,IoT
+2015,EPS-Source,7.0,LVDC,DC
+2015,IOT-App,9.0,Cloud computing,Internet of Things
+2015,EPS-Source,6.0,Photovoltaic generation,PV
+2015,EPS-Grid,6.0,power generation faults,secondary frequency
+2015,EPS-Source,7.0,Renewable energy,RE
+2015,IOT-Network,6.0,LTE,UE
+2015,EPS-Load,6.0,Power Quality,SMs
+2015,EPS-Store,6.0,smart grid,energy storage system
+2015,IOT-Network,20.0,M2M communication,M2M
+2015,IOT-App,6.0,the Smarter Yellow River,Internet of Things
+2015,IOT-App,7.0,Architecture,Internet of Things
+2015,IOT-Network,6.0,protocols,IoT
+2015,IOT-Network,6.0,multi-user detection,D2D
+2015,IOT-App,6.0,education,IoT
+2015,IOT-Network,6.0,Uplink Scheduling,M2M
+2015,EPS-Grid,6.0,multiple distributed energy resources-based microgrid,secondary frequency
+2015,EPS-Grid,7.0,power line communications,PLC
+2015,EPS-Grid,6.0,feedback,secondary frequency
+2015,IOT-App,11.0,information technology,IoT
+2015,EPS-Source,10.0,energy storage system,DC
+2015,IOT-Percept,6.0,Distributed beamforming,BS
+2015,IOT-Network,25.0,IoT,wireless sensor networks
+2015,IOT-Percept,6.0,Internet of Things,M2M
+2015,IOT-Network,7.0,IoT,transmitter
+2015,EPS-Source,6.0,power distribution,DC
+2015,EPS-Source,6.0,planning,energy storage
+2015,IOT-Percept,6.0,database,CNC
+2015,IOT-Network,6.0,Kalman filter,IoT
+2015,EPS-Load,14.0,Smart grid,DR
+2015,EPS-Grid,6.0,power quality issues,secondary frequency
+2015,EPS-Grid,6.0,threshold filter design,secondary frequency
+2015,IOT-Percept,6.0,Vehicle Diagnostics,CEP
+2015,EPS-Source,6.0,load shedding,power management
+2015,EPS-Grid,7.0,Nakagami-m distribution,PLC
+2015,IOT-App,10.0,ontology,IoT
+2015,EPS-Grid,6.0,Automatic power control,AC
+2015,IOT-Compute,6.0,IoT Data Gathering,D2D
+2015,IOT-Network,9.0,BodyNet,BSNs
+2015,EPS-Grid,7.0,Rician fading,PLC
+2015,IOT-Percept,6.0,Data analysis,M2M
+2015,IOT-Compute,7.0,stream query processing,IoT
+2015,EPS-Grid,7.0,binary phase shift keying,PLC
+2015,IOT-Network,6.0,unslotted,IoT
+2015,EPS-Load,6.0,Smart Meter,SMs
+2015,IOT-Network,6.0,464XLAT,IPv6
+2015,IOT-Network,8.0,DTLS,IoT
+2015,IOT-Network,7.0,UBOOT,DTLS
+2015,EPS-Source,7.0,DC power distribution,DC
+2015,IOT-Network,6.0,Happy Eyeballs,IPv6
+2015,EPS-Load,13.0,Demand Response,DR
+2015,EPS-Store,8.0,Optimization,BESS
+2015,EPS-Source,8.0,Combined heat and power,PV
+2015,EPS-Source,6.0,Monte Carlo method,PV
+2015,IOT-App,7.0,Strain Sensor,DTLS
+2015,IOT-Network,6.0,ECC,IoT
+2015,EPS-Source,7.0,DC-DC power converters,DC
+2015,IOT-Percept,6.0,Data processing,M2M
+2015,IOT-Compute,6.0,virtual sensors,IoT
+2015,IOT-Compute,7.0,Industrial Internet,IoT
+2015,IOT-Compute,7.0,Sensor network,IoT
+2015,EPS-Source,7.0,Smart energy,RE
+2015,EPS-Source,6.0,Optimization,KPIs
+2015,EPS-Load,6.0,Smart Grid,CO2
+2015,EPS-Grid,6.0,reactive power control,secondary frequency
+2015,IOT-Network,6.0,user activity sparsity,D2D
+2015,IOT-Percept,6.0,Internet of Things,BS
+2015,IOT-App,6.0,additive manufacturing,3D
+2015,EPS-Grid,6.0,positive sequence power voltage loop,secondary frequency
+2015,IOT-Network,6.0,Communication network,IoT
+2015,IOT-Percept,6.0,Data handling,M2M
+2015,IOT-App,7.0,Wireless Sensor,DTLS
+2015,IOT-App,6.0,high technology,IoT
+2015,IOT-Network,16.0,security,IoT
+2015,IOT-App,6.0,Internet of Things,D2D
+2015,EPS-Source,8.0,MPPT,DC
+2015,EPS-Source,11.0,Energy storage system,energy storage
+2015,EPS-Source,9.0,Micro Grid,MG
+2015,EPS-Load,6.0,Slovak Republic,LV
+2015,IOT-App,6.0,Real-time,D2D
+2015,IOT-App,6.0,directory service,IoT
+2015,IOT-Network,9.0,Computer applications,IoT
+2015,IOT-App,6.0,service discovery,IoT
+2015,IOT-Percept,6.0,service-oriented,CNC
+2015,EPS-Grid,6.0,coupling bus reactive power,secondary frequency
+2015,IOT-App,7.0,oneM2M,M2M
+2015,EPS-Source,12.0,photovoltaic,PV
+2015,IOT-Compute,6.0,Data Security,IoT
+2015,IOT-Percept,6.0,Wireless Sensor Networks,IoT
+2015,IOT-Network,18.0,Internet computing,IoT
+2015,EPS-Store,8.0,Frequency and voltage control,BESS
+2015,IOT-Network,7.0,M2M service architecture,M2M
+2015,IOT-App,6.0,aerosol jet printing,3D
+2015,IOT-Network,6.0,Internet of things,WLAN
+2015,IOT-Network,6.0,SensorThings,IoT
+2015,IOT-Network,9.0,routing,BSNs
+2015,IOT-Percept,6.0,Privacy,IoT
+2015,EPS-Source,6.0,380 VDC,DC
+2015,IOT-App,6.0,Technological trends,ICT
+2015,EPS-Source,6.0,Distributed generation,PV
+2015,IOT-Network,9.0,software engineering,IoT
+2015,IOT-App,6.0,ICY,ICT
+2015,IOT-Compute,6.0,Computing on Encrypted Data,IoT
+2015,IOT-Network,7.0,Wi-Fi,DTLS
+2015,EPS-Source,6.0,DC power,DC
+2015,IOT-App,7.0,Additive Manufacturing,DTLS
+2015,EPS-Source,6.0,Oil-paper insulation,DP
+2015,EPS-Source,8.0,Climate change,CO2
+2015,IOT-Network,6.0,IPv6 mobile network,IPv6
+2015,EPS-Store,6.0,Smart Grid,state of charge
+2015,IOT-Network,7.0,RF,DTLS
+2015,EPS-Source,6.0,scheduling,energy storage
+2015,IOT-Network,7.0,Mobile computing,IoT
+2015,IOT-Network,9.0,IEEE 802.15.4,IoT
+2015,IOT-App,6.0,the Internet of Things technology,Internet of Things
+2015,EPS-Load,6.0,dynamic pricing,DR
+2015,EPS-Load,6.0,simulation,DR
+2015,IOT-Network,9.0,protocols,BSNs
+2015,IOT-App,6.0,Barriers to ICT adoption,ICT
+2015,IOT-Percept,6.0,intelligent,CNC
+2015,IOT-App,6.0,content match,IoT
+2015,IOT-App,6.0,metadata model,IoT
+2015,IOT-Network,6.0,IPv4/IPv6 dual-stack,IPv6
+2015,IOT-Network,6.0,LTE,M2M
+2015,EPS-Load,12.0,Smart Grid,SMs
+2015,IOT-App,7.0,M2M endpoint,M2M
+2015,EPS-Source,12.0,distributed generation,PV
+2015,IOT-App,6.0,micro-additive manufacturing,3D
+2015,EPS-Load,6.0,Smart Metering,LV
+2015,IOT-Compute,7.0,Control,IoT
+2015,EPS-Source,8.0,Hybrid system,PV
+2015,IOT-Network,7.0,Radio Frequency,DTLS
+2015,EPS-Grid,6.0,fault diagnosis,secondary frequency
+2015,IOT-App,6.0,Multimodal transport,ICT
+2015,EPS-Load,6.0,AMI,LV
+2015,IOT-Percept,14.0,RFID,IoT
+2015,IOT-Network,7.0,Stop and Wait ARQ,DTLS
+2015,IOT-Network,9.0,Cloud computing,IoT
+2015,IOT-Percept,6.0,Machine-to-machine communications,M2M
+2015,EPS-Load,9.0,demand response,DRM
+2015,EPS-Source,8.0,Optimization,CO2
+2015,EPS-Store,7.0,Photovoltaic,energy storage system
+2015,IOT-Network,6.0,distributed energy resource,IoT
+2015,EPS-Source,6.0,Smart Grid,energy storage
+2015,EPS-Grid,6.0,IEC 62351,IEC
+2015,IOT-Network,30.0,CoAP,IoT
+2015,EPS-Load,7.0,peak load reduction,DRM
+2015,IOT-Compute,6.0,green computing,IoT
+2015,IOT-Network,10.0,energy efficiency,IoT
+2015,EPS-Source,12.0,Microgrid,DC
+2015,IOT-Percept,6.0,Location privacy,BS
+2015,IOT-Network,7.0,Trust,DTLS
+2015,IOT-Network,6.0,6LoWPAN,wireless sensor networks
+2015,IOT-App,7.0,2.4 GHz ISM,DTLS
+2015,IOT-App,6.0,architecture,IoT
+2015,IOT-Network,13.0,bluetooth smart device,M2M
+2015,EPS-Source,8.0,CO2 capture,CO2
+2015,IOT-Network,9.0,wireless sensor networks,BSNs
+2015,IOT-Percept,6.0,Traffic analysis,BS
+2015,IOT-Network,7.0,Trivial File Transfer Protocol,DTLS
+2015,IOT-App,6.0,STEM education,IoT
+2015,EPS-Grid,6.0,IEEE standards,secondary frequency
+2015,EPS-Load,7.0,Smart grid,DRM
+2015,EPS-Grid,6.0,IEEE UL 1741 standard,secondary frequency
+2015,EPS-Source,7.0,Energy conversion,DC
+2015,EPS-Source,6.0,Dynamic and static KPIs,KPIs
+2015,IOT-Network,7.0,Internet-of-Things,WSN
+2015,EPS-Load,6.0,security,SMs
+2015,EPS-Load,6.0,smart grid,SMs
+2015,EPS-Source,9.0,Smart grid,energy storage
+2015,EPS-Load,6.0,Smart Grid,LV
+2015,IOT-Network,9.0,Smart phones,IoT
+2015,EPS-Load,6.0,AMR,LV
+2015,IOT-Network,9.0,service choreographies,IoT
+2015,IOT-Compute,6.0,FIWARE,IoT
+2015,EPS-Source,6.0,Micro Grid,KPIs
+2015,EPS-Grid,6.0,power distribution faults,secondary frequency
+2015,EPS-Load,6.0,Smart Grid,smart grids
+2015,EPS-Store,8.0,Micro-grid,BESS
+2015,IOT-Compute,8.0,Open source,IoT
+2015,IOT-Network,6.0,Machine-to-Machine,M2M
+2015,IOT-Percept,6.0,optimization,CNC
+2015,IOT-Network,7.0,Raspberry Pi,DTLS
+2015,IOT-Network,7.0,IoT security,IoT
+2015,IOT-Network,9.0,Hypercube,BSNs
+2015,EPS-Source,7.0,Energy storage,RE
+2015,IOT-Network,9.0,Body sensor Networks,BSNs
+2015,IOT-Network,7.0,5G,IoT
+2015,IOT-Percept,6.0,RFID system,IoT
+2015,IOT-Compute,7.0,Processes,IoT
+2015,IOT-Network,13.0,gateway selection,M2M
+2015,IOT-App,7.0,OMA LwM2M,M2M
+2015,EPS-Source,6.0,Desegregation of the demand,PV
+2015,EPS-Grid,6.0,false detection avoidance,secondary frequency
+2015,EPS-Load,7.0,user inconvenience,DRM
+2015,IOT-Percept,6.0,monitor,CNC
+2015,IOT-App,7.0,Resource description,M2M
+2015,IOT-Network,6.0,Internet-of-Things,D2D
+2015,EPS-Source,24.0,DC microgrid,DC
+2015,IOT-App,6.0,wearable devices,3D
+2015,IOT-Compute,6.0,federation,IoT
+2015,IOT-Compute,6.0,Interoperable Communication,D2D
+2015,IOT-App,6.0,remote-control,D2D
+2015,EPS-Grid,6.0,binary tree classifier,secondary frequency
+2015,IOT-Compute,6.0,Cloud Computing,D2D
+2015,EPS-Grid,6.0,point of common coupling,secondary frequency
+2015,EPS-Source,6.0,Bushing,DP
+2015,EPS-Load,6.0,game theory,smart grids
+2015,EPS-Grid,6.0,dc-link capacitor voltage,secondary frequency
+2015,EPS-Store,6.0,plug-in electric vehicle,PEVs
+2015,IOT-App,6.0,push notification,IoT
+2015,IOT-Network,13.0,energy consumption,M2M
+2015,IOT-App,6.0,the Digital Yellow River,Internet of Things
+2015,EPS-Source,8.0,Wind power,CO2
+2015,IOT-Percept,6.0,Information management,M2M
+2015,EPS-Grid,6.0,power supply quality,secondary frequency
+2015,EPS-Store,6.0,Renewable energy sources,EVs
+2015,IOT-Percept,6.0,Security,IoT
+2015,EPS-Load,7.0,energy management service,DRM
+2015,IOT-Network,11.0,energy consumption,IoT
+2015,IOT-Compute,6.0,the internet of things,IoT
+2015,IOT-App,6.0,chip-to-chip communication,3D
+2015,EPS-Source,12.0,microgrid,PV
+2015,EPS-Store,9.0,smart grid,PEVs
+2015,EPS-Source,7.0,Batteries,PV
+2015,EPS-Load,6.0,monetary impact,DR
+2015,IOT-Compute,7.0,SCADA,IoT
+2015,IOT-Network,7.0,Asymmetric,DTLS
+2015,EPS-Source,8.0,microgrid,DC
+2015,IOT-Percept,6.0,evaluation,CNC
+2015,EPS-Source,9.0,smart grid,DC
+2015,IOT-Compute,6.0,System Actuation,D2D
+2015,EPS-Load,7.0,EMS,DRM
+2015,IOT-Network,7.0,Bluetooth smart device,M2M
+2015,IOT-Percept,6.0,Driver Monitoring,CEP
+2015,EPS-Grid,6.0,busbars,secondary frequency
+2015,IOT-Network,7.0,Privacy,DTLS
+2015,EPS-Grid,6.0,power grids,secondary frequency
+2015,IOT-Network,6.0,RAW,IoT
+2015,IOT-Network,17.0,cloud computing,IoT
+2015,EPS-Source,7.0,Clean power,RE
+2015,IOT-Network,6.0,MTC,IoT
+2015,IOT-Percept,6.0,Sensor networks,IoT
+2015,IOT-Network,6.0,performance evaluation,IPv6
+2015,EPS-Source,17.0,smart grid,PV
+2015,EPS-Store,6.0,truthful bidding strategy,EVs
+2015,IOT-Network,6.0,Packet transmission time,IoT
+2015,EPS-Grid,6.0,power convertors,secondary frequency
+2015,EPS-Store,6.0,energy storage systems,energy storage
+2015,EPS-Source,7.0,Power system simulation,DC
+2015,EPS-Load,9.0,Smart Grid,smart meter
+2015,IOT-Compute,6.0,IoT Device Monitoring,D2D
+2015,EPS-Store,8.0,ANN,BESS
+2015,IOT-Network,7.0,Simulator,DTLS
+2015,IOT-Network,6.0,compressive sensing,D2D
+2015,IOT-Network,9.0,software diversification,IoT
+2015,IOT-App,7.0,3-D Printer,DTLS
+2015,IOT-Network,6.0,PUCK,IoT
+2015,IOT-Percept,6.0,Software systems,M2M
+2015,EPS-Grid,6.0,trees (mathematics),secondary frequency
+2015,IOT-Network,7.0,IOT,DTLS
+2015,EPS-Source,7.0,Power system modeling,DC
+2015,IOT-Network,6.0,CSMA/CA,IoT
+2015,IOT-Network,6.0,Wireless sensor networks,Internet of Things
+2015,IOT-Network,6.0,state estimation,IoT
+2015,IOT-App,6.0,embedded systems,D2D
+2015,EPS-Source,8.0,Microgrid,PV
+2015,EPS-Grid,6.0,fast negative sequence power injection oriented islanding detection technique,secondary frequency
+2015,IOT-Percept,6.0,Internet of Things,CEP
+2015,IOT-Network,7.0,M2M gateway selection,M2M
+2015,IOT-Network,18.0,Software engineering,IoT
+2015,IOT-Network,6.0,Hierarchic channel access,IoT
+2015,EPS-Source,8.0,Sizing,PV
+2015,IOT-Network,9.0,cloud APIs,IoT
+2015,EPS-Source,8.0,Cogeneration,PV
+2015,EPS-Source,6.0,nanogrid,DC
+2015,EPS-Store,6.0,auction,EVs
+2015,IOT-Network,6.0,IoT device,IoT
+2015,EPS-Grid,6.0,photovoltaic based voltage source converter control,secondary frequency
+2015,IOT-App,6.0,Web of Things,IoT
+2015,EPS-Source,6.0,Aging characteristics,DP
+2015,EPS-Grid,6.0,solar cell arrays,secondary frequency
+2015,EPS-Store,9.0,EV,EVs
+2015,IOT-Percept,6.0,Anonymity,BS
+2015,IOT-Network,9.0,Internetware,IoT
+2015,EPS-Source,12.0,Thermal energy storage,energy storage
+2015,EPS-Grid,6.0,Grid-tie Inverter,AC
+2015,EPS-Load,6.0,Remote Switching,SMs
+2015,EPS-Store,6.0,group-selling,EVs
+2015,IOT-App,7.0,M2M device,M2M
+2015,IOT-Network,7.0,Simulation,DTLS
+2015,EPS-Grid,6.0,PV based VSC system,secondary frequency
+2015,EPS-Source,8.0,HOMER,PV
+2015,EPS-Source,6.0,Renewable energy resources,KPIs
+2015,IOT-Compute,7.0,Actuators,IoT
+2015,IOT-App,7.0,Flexible,DTLS
+2015,EPS-Load,6.0,households,DR
+2015,EPS-Source,7.0,Smart grid,RE
+2015,IOT-Network,13.0,6LoWPAN,IPv6
+2015,EPS-Source,6.0,renewable energy,energy storage
+2015,IOT-Compute,6.0,Robotics,IoT
+2015,IOT-Network,9.0,Special issues and sections,IoT
+2015,IOT-Compute,7.0,Terms Fog Computing,IoT
+2015,IOT-Network,7.0,Cryptography,DTLS
+2015,IOT-Network,7.0,RSA,DTLS
+2015,IOT-Compute,6.0,energy sustainability,IoT
+2015,EPS-Store,7.0,DC Micro Grid,DC
+2015,IOT-Network,6.0,IoT,UE
+2015,EPS-Store,10.0,battery,energy storage
+2015,IOT-App,6.0,context-aware messaging service,IoT
+2015,IOT-Network,6.0,standards,IoT
+2015,EPS-Source,16.0,Microgrid,energy storage
+2015,EPS-Grid,6.0,power generation control,secondary frequency
+2015,IOT-Network,6.0,Resource Allocation,M2M
+2015,IOT-App,7.0,Agility,Internet of Things
+2015,EPS-Grid,6.0,Voltage control,AC
+2015,EPS-Grid,6.0,distributed power generation,secondary frequency
+2015,IOT-App,7.0,Wearable,DTLS
+2015,EPS-Store,13.0,electric vehicle,EVs
+2015,EPS-Source,8.0,energy storage,PV
+2015,EPS-Source,6.0,Thermal aging,DP
+2015,IOT-Compute,6.0,agriculture production,IoT
+2015,IOT-Compute,6.0,cloud service platform,IoT
+2015,IOT-Network,7.0,Lightweight,DTLS
+2015,IOT-Network,6.0,multiple measurement vector,D2D
+2015,EPS-Store,7.0,vehicle to grid,EVs
+2015,EPS-Source,6.0,Genetic algorithms,KPIs
+2015,IOT-Network,6.0,OGC SWE,IoT
+2015,IOT-Network,7.0,ElGamal,DTLS
+2015,EPS-Source,7.0,microgrid,energy storage
+2015,EPS-Load,7.0,customer engagement plan,DRM
+2015,EPS-Source,8.0,distribution system,PV
+2015,EPS-Source,6.0,CO2 emission,DC
+2015,IOT-Compute,6.0,Sensor Data Gathering,D2D
+2015,IOT-Percept,6.0,Internet of Things,RFID
+2015,IOT-App,7.0,CoRE Link Format,M2M
+2015,IOT-Network,8.0,interoperability,IoT
+2015,EPS-Source,10.0,smart grid,energy storage
+2015,EPS-Load,19.0,Smart Grid,DR
+2015,EPS-Store,7.0,DC Microgrid,DC
+2015,IOT-Percept,6.0,Mobile communications,IoT
+2015,IOT-Percept,6.0,shared,CNC
+2015,IOT-Network,7.0,TFTP,DTLS
+2015,IOT-Network,9.0,smartphone applications,IoT
+2015,IOT-App,6.0,3D antennas,3D
+2015,EPS-Store,6.0,Vehicle-to-Gridnetworks,EVs
+2015,EPS-Store,6.0,hybrid energy storage,energy storage
+2015,EPS-Source,7.0,Urban energy,RE
+2015,IOT-Network,6.0,sensor,IoT

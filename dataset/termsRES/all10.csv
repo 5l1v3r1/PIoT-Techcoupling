@@ -1,0 +1,925 @@
+Source Node,Target Node,Pair Count,SNDomain,TNDomain,year
+Distributed generation,PV,30,EPS-Source,EPS-Source,2000
+fuel cell,PV,12,EPS-Source,EPS-Source,2000
+microgrid,PV,58,EPS-Source,EPS-Source,2000
+photovoltaic,PV,45,EPS-Source,EPS-Source,2000
+power management,PV,18,EPS-Source,EPS-Source,2000
+microgrid,DG,11,EPS-Source,EPS-Source,2000
+Micro-Grid,MG,13,EPS-Source,EPS-Grid,2000
+smart grid,DC,41,EPS-Source,EPS-Source,2000
+Distributed generation,DC,13,EPS-Source,EPS-Source,2000
+DC Micro-grid,DC,17,EPS-Source,EPS-Source,2000
+Energy Management,DC,12,EPS-Source,EPS-Source,2000
+DG,energy storage,21,EPS-Source,EPS-Source,2000
+distributed generation,energy storage,15,EPS-Source,EPS-Source,2000
+PV,energy storage,31,EPS-Source,EPS-Source,2000
+photovoltaic,energy storage,11,EPS-Source,EPS-Source,2000
+smart meter,energy storage,11,EPS-Source,EPS-Source,2000
+Smart Grid,power quality,11,EPS-Source,EPS-Source,2000
+Power Quality,power quality,37,EPS-Source,EPS-Source,2000
+smart grid,DG,14,EPS-Source,EPS-Source,2000
+microgrid,power management,15,EPS-Source,EPS-Source,2000
+smart grid,smart grids,33,EPS-Source,EPS-Source,2000
+Distributed Generation,DG,18,EPS-Source,EPS-Source,2000
+Internet of Things,IoT,219,EPS-Source,IOT-App,2000
+smart grid,power line,13,EPS-Source,EPS-Source,2000
+Smart Grid,QoS,12,EPS-Source,EPS-Store,2000
+Smart Grid,energy storage,28,EPS-Source,EPS-Source,2000
+Renewable Energy,energy storage,14,EPS-Source,EPS-Source,2000
+Smart grid,smart grids,48,EPS-Source,EPS-Source,2000
+Smart grid,power quality,17,EPS-Source,EPS-Source,2000
+harmonic losses,power quality,12,EPS-Source,EPS-Source,2000
+K-factor,power quality,12,EPS-Source,EPS-Source,2000
+load management and nonlinear transformer,power quality,12,EPS-Source,EPS-Source,2000
+smart meters,smart meter,23,EPS-Source,EPS-Source,2000
+demand response,DR,66,EPS-Source,EPS-Source,2000
+smart grid,DR,35,EPS-Source,EPS-Source,2000
+Demand Response,DR,25,EPS-Source,EPS-Source,2000
+Smart Grid,DR,28,EPS-Source,EPS-Source,2000
+Smart Meter,smart meter,16,EPS-Source,EPS-Source,2000
+Power quality,power quality,17,EPS-Source,EPS-Source,2000
+microgrid,DC,26,EPS-Source,EPS-Source,2000
+distributed generation,DC,25,EPS-Source,EPS-Source,2000
+DC distribution,DC,14,EPS-Source,EPS-Source,2000
+Plug-in electric vehicle,PEVs,13,EPS-Source,EPS-Grid,2000
+smart grid,PHEVs,17,EPS-Source,EPS-Grid,2000
+electric vehicle,EVs,18,EPS-Source,EPS-Source,2000
+smart grid,EVs,33,EPS-Source,EPS-Source,2000
+Internet of things,IoT,63,EPS-Source,IOT-App,2000
+6LoWPAN,IoT,13,EPS-Store,IOT-App,2000
+RFID,IoT,30,IOT-Network,IOT-App,2000
+security,IoT,19,EPS-Source,IOT-App,2000
+wireless sensor network,IoT,27,EPS-Source,IOT-App,2000
+Cloud computing,IoT,20,EPS-Source,IOT-App,2000
+Microgrid,energy storage,29,EPS-Source,EPS-Source,2000
+DC microgrid,DC,49,EPS-Source,EPS-Source,2000
+renewable energy sources,DC,19,EPS-Source,EPS-Source,2000
+Distributed generation,DG,15,EPS-Source,EPS-Source,2000
+Microgrid,PV,37,EPS-Source,EPS-Source,2000
+Energy storage,India,11,EPS-Grid,EPS-Grid,2000
+Electric vehicles,EVs,29,EPS-Grid,EPS-Source,2000
+Energy storage,EVs,13,EPS-Grid,EPS-Source,2000
+Micro-grid,DC,11,EPS-Store,EPS-Source,2000
+BESS,energy storage system,19,IOT-Network,EPS-Grid,2000
+microgrid,energy storage,42,EPS-Source,EPS-Source,2000
+Smart Grid,smart meter,13,EPS-Source,EPS-Source,2000
+smart grid,electric vehicle,27,EPS-Source,EPS-Source,2000
+plug-in electric vehicles,PEVs,13,EPS-Grid,EPS-Grid,2000
+Battery energy storage system,energy storage,17,EPS-Grid,EPS-Source,2000
+Smart grid,energy storage,12,EPS-Source,EPS-Source,2000
+smart grid,PEVs,14,EPS-Source,EPS-Grid,2000
+microgrid,MG,17,EPS-Source,EPS-Grid,2000
+PEV,PEVs,12,EPS-Grid,EPS-Grid,2000
+PHEV,PHEVs,24,EPS-Grid,EPS-Grid,2000
+Plug-in Hybrid Electric Vehicles,PHEVs,13,EPS-Grid,EPS-Grid,2000
+Smart Grid,PHEVs,16,EPS-Source,EPS-Grid,2000
+Radio frequency identification,RFID,17,EPS-Grid,IOT-Network,2000
+Middleware RFID,RFID,12,EPS-Grid,IOT-Network,2000
+Internet of things,RFID,23,EPS-Source,IOT-Network,2000
+Mobile devices,RFID,12,EPS-Grid,IOT-Network,2000
+Embedded framework,RFID,12,EPS-Grid,IOT-Network,2000
+Pervasive computing,RFID,12,EPS-Grid,IOT-Network,2000
+Internet of Things,RFID,39,EPS-Source,IOT-Network,2000
+Internet of things,wireless sensor networks,13,EPS-Source,EPS-Store,2000
+Mobile IPv6,IPv6,14,EPS-Grid,EPS-Store,2000
+cloud computing,IoT,12,EPS-Grid,IOT-App,2000
+Internet of Things,WSN,15,EPS-Source,IOT-Network,2000
+internet of things,Internet of Things,19,EPS-Store,EPS-Source,2000
+Microgrid,MG,12,EPS-Source,EPS-Grid,2000
+Photovoltaic,PV,26,EPS-Grid,EPS-Source,2000
+V2G,PEVs,13,EPS-Store,EPS-Grid,2000
+Electric vehicle,EVs,14,EPS-Store,EPS-Source,2000
+Smart grid,EVs,17,EPS-Source,EPS-Source,2000
+smart grid,energy storage,18,EPS-Source,EPS-Source,2000
+renewable energy,energy storage,11,EPS-Store,EPS-Source,2000
+power quality,PV,12,EPS-Source,EPS-Source,2000
+Battery,DC,12,EPS-Store,EPS-Source,2000
+Battery,energy storage,12,EPS-Store,EPS-Source,2000
+BESS,energy storage,12,IOT-Network,EPS-Source,2000
+plug-in electric vehicle,PEVs,13,EPS-Load,EPS-Grid,2000
+energy storage,DC,13,EPS-Source,EPS-Source,2000
+M2M communication,M2M,45,EPS-Store,EPS-Store,2000
+Smart Grid,smart grids,11,EPS-Source,EPS-Source,2000
+plug-in hybrid electric vehicle,PHEVs,12,EPS-Store,EPS-Grid,2000
+V2G,EVs,18,EPS-Store,EPS-Source,2000
+Micro-grid,PV,14,EPS-Store,EPS-Source,2000
+Smart Grid,electric vehicle,12,EPS-Source,EPS-Source,2000
+DC micro-grid,DC,12,EPS-Store,EPS-Source,2000
+Energy storage,energy storage,16,EPS-Grid,EPS-Source,2000
+Dynamic routing,IoT,12,EPS-Store,IOT-App,2000
+Pricing model,IoT,12,EPS-Store,IOT-App,2000
+Heterogeneous communication,IoT,12,EPS-Store,IOT-App,2000
+sensor,IoT,16,EPS-Store,IOT-App,2000
+IoT security,IoT,23,EPS-Store,IOT-App,2000
+Wireless sensor network,IoT,21,EPS-Store,IOT-App,2000
+Wireless Sensor Networks,IoT,57,EPS-Store,IOT-App,2000
+Middleware,IoT,46,EPS-Store,IOT-App,2000
+M2M communications,M2M,16,EPS-Store,EPS-Store,2000
+Internet of things,M2M,13,EPS-Source,EPS-Store,2000
+IoT,wireless sensor networks,53,IOT-App,EPS-Store,2000
+WSN,wireless sensor networks,28,IOT-Network,EPS-Store,2000
+Clustering,wireless sensor networks,12,EPS-Store,EPS-Store,2000
+Bluetooth Low Energy,BLE,28,EPS-Store,EPS-Store,2000
+Internet of Things,BLE,35,EPS-Source,EPS-Store,2000
+IoT,M2M,53,IOT-App,EPS-Store,2000
+Constrained Application Protocol,CoAP,12,EPS-Store,EPS-Store,2000
+Internet of Things,CoAP,14,EPS-Source,EPS-Store,2000
+6LoWPAN,IPv6,24,EPS-Store,EPS-Store,2000
+IoT,IPv6,47,IOT-App,EPS-Store,2000
+wireless sensor network,WSN,18,EPS-Source,IOT-Network,2000
+internet of things,IoT,93,EPS-Store,IOT-App,2000
+wireless sensor network,Internet of Things,14,EPS-Source,EPS-Source,2000
+IoT,BLE,14,IOT-App,EPS-Store,2000
+Internet of Things,IPv6,28,EPS-Source,EPS-Store,2000
+Wi-Fi,Internet of Things,18,IOT-Network,EPS-Source,2000
+Wireless Sensor Networks,WSN,17,EPS-Store,IOT-Network,2000
+IOT,Internet of Things,12,EPS-Load,EPS-Source,2000
+Context awareness,IoT,13,EPS-Store,IOT-App,2000
+Automation,IoT,11,IOT-App,IOT-App,2000
+privacy,IoT,28,EPS-Source,IOT-App,2000
+sensors,IoT,32,EPS-Store,IOT-App,2000
+trust,IoT,12,EPS-Store,IOT-App,2000
+energy management,PV,11,EPS-Store,EPS-Source,2000
+smart grid,PV,11,EPS-Source,EPS-Source,2000
+energy management,DC,12,EPS-Store,EPS-Source,2000
+Energy storage,PV,20,EPS-Grid,EPS-Source,2000
+electric vehicle,PV,12,EPS-Source,EPS-Source,2000
+Coordinative control,DR,12,EPS-Source,EPS-Source,2000
+hierarchical control,DR,12,EPS-Source,EPS-Source,2000
+residential feeder,DR,12,EPS-Source,EPS-Source,2000
+voltage regulation,PV,12,EPS-Source,EPS-Source,2000
+smart grid,IEC,11,EPS-Source,EPS-Source,2000
+Microgrid,DG,20,EPS-Source,EPS-Source,2000
+authentication,M2M,16,EPS-Store,EPS-Store,2000
+key establishment,M2M,16,EPS-Source,EPS-Store,2000
+6LoWPAN security,M2M,16,EPS-Source,EPS-Store,2000
+Internet of Things,DoS,18,EPS-Source,EPS-Source,2000
+Micro-Grid,energy storage,14,EPS-Source,EPS-Source,2000
+Smart Grid,EVs,38,EPS-Source,EPS-Source,2000
+DC grid,DC,11,EPS-Source,EPS-Source,2000
+plug-in hybrid electric vehicle,DC,12,EPS-Store,EPS-Source,2000
+Smart Grid,SG,20,EPS-Source,IOT-App,2000
+Smart grid,smart meter,14,EPS-Source,EPS-Source,2000
+optimization,smart grids,11,EPS-Store,EPS-Source,2000
+Smart Meter,SG,12,EPS-Source,IOT-App,2000
+Advanced Metering Infrastructure,smart meter,14,EPS-Source,EPS-Source,2000
+DC distribution networks,DC,15,EPS-Source,EPS-Source,2000
+power electronics load,DC,15,EPS-Source,EPS-Source,2000
+demand response,DC,20,EPS-Source,EPS-Source,2000
+BACnet,DR,11,EPS-Source,EPS-Source,2000
+DC Microgrid,DC,18,EPS-Source,EPS-Source,2000
+Electric Vehicle,EVs,22,EPS-Source,EPS-Source,2000
+RFID security,RFID,14,EPS-Source,IOT-Network,2000
+Mobile ad hoc networks,WSN,15,EPS-Source,IOT-Network,2000
+routing protocols,WSN,15,EPS-Source,IOT-Network,2000
+Wireless sensor networks,IoT,20,EPS-Source,IOT-App,2000
+coverage,IoT,12,IOT-Network,IOT-App,2000
+identification,RFID,12,EPS-Source,IOT-Network,2000
+security,RFID,12,EPS-Source,IOT-Network,2000
+privacy,RFID,12,EPS-Source,IOT-Network,2000
+elliptic curves,RFID,12,EPS-Source,IOT-Network,2000
+wireless sensor network,smart home energy management,12,EPS-Source,EPS-Source,2000
+smart home energy management system,smart home energy management,12,EPS-Source,EPS-Source,2000
+key establishment,smart home energy management,12,EPS-Source,EPS-Source,2000
+WSN,IoT,15,IOT-Network,IOT-App,2000
+machine-to-machine communications,M2M,11,EPS-Source,EPS-Store,2000
+cyber-physical systems,M2M,11,EPS-Source,EPS-Store,2000
+Microgrid,dynamic economic dispatch,12,EPS-Source,EPS-Source,2000
+Dynamic economic dispatch,dynamic economic dispatch,12,EPS-Source,EPS-Source,2000
+Uncertainty,dynamic economic dispatch,12,EPS-Source,EPS-Source,2000
+Improved particle swarm optimization,dynamic economic dispatch,12,EPS-Source,EPS-Source,2000
+Monte Carlo simulation,dynamic economic dispatch,12,EPS-Source,EPS-Source,2000
+Operation scheduling strategies,dynamic economic dispatch,12,EPS-Source,EPS-Source,2000
+Renewable energy,PV,14,EPS-Source,EPS-Source,2000
+Drinking water plant,PV,12,EPS-Source,EPS-Source,2000
+Integrated bidding strategy,PV,12,EPS-Source,EPS-Source,2000
+Wind and solar system,PV,12,EPS-Source,EPS-Source,2000
+Stochastic programming,PV,12,EPS-Source,EPS-Source,2000
+Demand response,PV,16,EPS-Source,EPS-Source,2000
+distributed generation,smart grids,11,EPS-Source,EPS-Source,2000
+voltage control,smart grids,13,EPS-Source,EPS-Source,2000
+mixed integer linear programming,energy storage,12,EPS-Source,EPS-Source,2000
+reliability,energy storage,11,IOT-App,EPS-Source,2000
+renewable energy resources,energy storage,13,EPS-Source,EPS-Source,2000
+Smart microgrid,smart microgrid,12,EPS-Source,EPS-Source,2000
+demand response,MG,12,EPS-Source,EPS-Grid,2000
+photovoltaic power systems,PV,16,EPS-Source,EPS-Source,2000
+high-penetration PV,PV,12,EPS-Source,EPS-Source,2000
+SCADA systems,PV,12,EPS-Source,EPS-Source,2000
+data acquisition,PV,12,EPS-Source,EPS-Source,2000
+COPT,PV,14,EPS-Source,EPS-Source,2000
+LOLE,PV,14,EPS-Source,EPS-Source,2000
+LOEE,PV,14,EPS-Source,EPS-Source,2000
+Battery storage,DC,12,EPS-Source,EPS-Source,2000
+Network formation,smart meter,11,EPS-Source,EPS-Source,2000
+stochastic learning,smart meter,11,EPS-Source,EPS-Source,2000
+wireless routing,smart meter,11,EPS-Source,EPS-Source,2000
+DC system,DC,14,EPS-Source,EPS-Source,2000
+sliding mode control,DC,12,EPS-Source,EPS-Source,2000
+power system stability,DC,13,EPS-Source,EPS-Source,2000
+security,smart meter,12,EPS-Source,EPS-Source,2000
+privacy,smart meter,17,EPS-Source,EPS-Source,2000
+AMI,SG,12,EPS-Source,IOT-App,2000
+microgrid,EVs,12,EPS-Source,EPS-Source,2000
+quality of service,IoT,12,EPS-Grid,IOT-App,2000
+Battery energy storage system,BESS,18,EPS-Grid,IOT-Network,2000
+Security,IoT,30,EPS-Grid,IOT-App,2000
+Heterogeneous,IoT,12,EPS-Grid,IOT-App,2000
+RFID sensor networks,IoT,12,EPS-Grid,IOT-App,2000
+Privacy,IoT,15,EPS-Grid,IOT-App,2000
+EXI,IoT,14,EPS-Grid,IOT-App,2000
+CoAP,IoT,19,EPS-Store,IOT-App,2000
+energy harvesting,RF,11,IOT-App,IOT-App,2000
+Semantic Web,IoT,14,EPS-Grid,IOT-App,2000
+network communications,IoT,11,EPS-Grid,IOT-App,2000
+internetworking,IoT,11,EPS-Grid,IOT-App,2000
+backwards compatibility,IoT,11,EPS-Grid,IOT-App,2000
+system architecture,IoT,11,EPS-Grid,IOT-App,2000
+interoperability,IoT,15,EPS-Grid,IOT-App,2000
+Contiki,IoT,12,EPS-Grid,IOT-App,2000
+Cloud Computing,IoT,14,EPS-Grid,IOT-App,2000
+LTE,M2M,15,EPS-Grid,EPS-Store,2000
+Machine-to-Machine Communication,M2M,12,EPS-Grid,EPS-Store,2000
+Human-to-Human communication,M2M,12,EPS-Grid,EPS-Store,2000
+Fixed AGTI Time-controlled Scheduling Scheme and Dynamic AGTI Time-controlled Scheduling Scheme,M2M,12,EPS-Grid,EPS-Store,2000
+Augmented Reality,IoT,14,EPS-Grid,IOT-App,2000
+IOT,IoT,30,EPS-Load,IOT-App,2000
+M2M,5G,11,EPS-Store,IOT-App,2000
+IoT,5G,39,IOT-App,IOT-App,2000
+Residential microgrid,residential microgrid,14,EPS-Load,EPS-Load,2000
+HEMS,residential microgrid,12,EPS-Load,EPS-Load,2000
+Home energy management system,residential microgrid,12,EPS-Load,EPS-Load,2000
+MPC,residential microgrid,12,EPS-Load,EPS-Load,2000
+Model predictive control,residential microgrid,12,EPS-Load,EPS-Load,2000
+MILP,residential microgrid,12,EPS-Load,EPS-Load,2000
+Mixed-integer linear programming,residential microgrid,12,EPS-Load,EPS-Load,2000
+Demand response,residential microgrid,12,EPS-Source,EPS-Load,2000
+Cogeneration,PV,16,EPS-Load,EPS-Source,2000
+Combined heat and power,PV,16,EPS-Load,EPS-Source,2000
+Sizing,PV,16,EPS-Load,EPS-Source,2000
+distribution system,PV,16,EPS-Load,EPS-Source,2000
+plug-in electric vehicle,DC,25,EPS-Load,EPS-Source,2000
+self-consumption,DC,20,EPS-Load,EPS-Source,2000
+modeling,DC,20,EPS-Load,EPS-Source,2000
+Energetic Macroscopic Representation,DC,20,EPS-Load,EPS-Source,2000
+Maximum Control Structure,DC,20,EPS-Load,EPS-Source,2000
+distributed generation,PV,12,EPS-Source,EPS-Source,2000
+Thermal energy storage,energy storage,17,EPS-Load,EPS-Source,2000
+Desegregation of the demand,PV,12,EPS-Load,EPS-Source,2000
+Monte Carlo method,PV,12,EPS-Load,EPS-Source,2000
+Charging stations,DC,12,EPS-Load,EPS-Source,2000
+Vehicle to grid,DC,12,EPS-Load,EPS-Source,2000
+Electric vehicles,DC,12,EPS-Grid,EPS-Source,2000
+Hybrid vehicles,DC,12,EPS-Load,EPS-Source,2000
+demand response,DRM,11,EPS-Source,EPS-Load,2000
+fluorescence,pH,12,EPS-Store,EPS-Store,2000
+intelligent,CNC,18,EPS-Store,EPS-Store,2000
+service-oriented,CNC,18,EPS-Store,EPS-Store,2000
+shared,CNC,18,EPS-Store,EPS-Store,2000
+database,CNC,18,EPS-Store,EPS-Store,2000
+monitor,CNC,18,EPS-Store,EPS-Store,2000
+optimization,CNC,18,EPS-Store,EPS-Store,2000
+evaluation,CNC,18,EPS-Store,EPS-Store,2000
+Anonymity,BS,12,IOT-App,EPS-Store,2000
+Location privacy,BS,12,EPS-Store,EPS-Store,2000
+Distributed beamforming,BS,12,EPS-Store,EPS-Store,2000
+Cooperative communication,BS,12,EPS-Store,EPS-Store,2000
+Traffic analysis,BS,12,EPS-Store,EPS-Store,2000
+Internet of Things,BS,12,EPS-Source,EPS-Store,2000
+Bluetooth low energy,IoT,13,EPS-Store,IOT-App,2000
+Internet of Things,3D,15,EPS-Source,EPS-Store,2000
+RPL,IoT,21,EPS-Store,IOT-App,2000
+loT,IoT,40,IOT-Network,IOT-App,2000
+network security,IoT,18,EPS-Store,IOT-App,2000
+Data analysis,M2M,12,EPS-Store,EPS-Store,2000
+Data handling,M2M,12,EPS-Store,EPS-Store,2000
+Data processing,M2M,12,EPS-Store,EPS-Store,2000
+Information management,M2M,12,EPS-Store,EPS-Store,2000
+Machine-to-machine communications,M2M,14,EPS-Store,EPS-Store,2000
+Software systems,M2M,12,EPS-Store,EPS-Store,2000
+IoT application,IoT,11,EPS-Store,IOT-App,2000
+High-speed network,IoT,12,EPS-Store,IOT-App,2000
+mm-wave integrated transceiver,IoT,12,EPS-Store,IOT-App,2000
+Cloud,IoT,14,EPS-Store,IOT-App,2000
+Ontology,IoT,26,EPS-Store,IOT-App,2000
+Zigbee,WSN,16,EPS-Store,IOT-Network,2000
+BHL,RGB,12,EPS-Store,EPS-Store,2000
+Body Hydration Leveldetection and awareness,RGB,12,EPS-Store,EPS-Store,2000
+Cloud platform,RGB,12,EPS-Store,EPS-Store,2000
+IoT,RGB,12,IOT-App,EPS-Store,2000
+Smart sensor networks,RGB,12,EPS-Store,EPS-Store,2000
+Healthcare,IoT,16,EPS-Store,IOT-App,2000
+Sensor networks,IoT,21,EPS-Store,IOT-App,2000
+RFID system,IoT,18,EPS-Store,IOT-App,2000
+Mobile communications,IoT,18,EPS-Store,IOT-App,2000
+Programming frameworks,IoT,19,EPS-Store,IOT-App,2000
+Big Data,IoT,49,EPS-Store,IOT-App,2000
+Data analytics,IoT,19,EPS-Store,IOT-App,2000
+Service Oriented Architecture,IoT,12,EPS-Store,IOT-App,2000
+Internet of Things,wireless communication,14,EPS-Source,EPS-Store,2000
+IoT device,IoT,12,EPS-Store,IOT-App,2000
+OGC SWE,IoT,12,EPS-Store,IOT-App,2000
+Sensor Observation Service,IoT,12,EPS-Store,IOT-App,2000
+PUCK,IoT,12,EPS-Store,IOT-App,2000
+SensorThings,IoT,12,EPS-Store,IOT-App,2000
+Mobile computing,IoT,16,EPS-Store,IOT-App,2000
+Trust,IoT,16,EPS-Store,IOT-App,2000
+IoT,mobility management,13,IOT-App,EPS-Store,2000
+Data Streaming,IoT,18,EPS-Store,IOT-App,2000
+IoT,transmitter,15,IOT-App,EPS-Store,2000
+Internet-of-Things,WSN,11,EPS-Store,IOT-Network,2000
+gateway selection,M2M,26,EPS-Store,EPS-Store,2000
+bluetooth smart device,M2M,26,EPS-Store,EPS-Store,2000
+energy consumption,M2M,26,EPS-Store,EPS-Store,2000
+M2M communication,IoT,16,EPS-Store,IOT-App,2000
+Virtual Machines,IoT,11,EPS-Store,IOT-App,2000
+LTE,UE,12,EPS-Grid,EPS-Store,2000
+IoT,UE,14,IOT-App,EPS-Store,2000
+ZigBee,transmitter,13,EPS-Store,EPS-Store,2000
+CRC,transmitter,13,EPS-Store,EPS-Store,2000
+Bit-to-Symbol,transmitter,13,EPS-Store,EPS-Store,2000
+Smart cities,IoT,13,IOT-App,IOT-App,2000
+Information-Centric Networking,IoT,11,EPS-Store,IOT-App,2000
+IoT,WiFi,21,IOT-App,EPS-Store,2000
+IoT,3D,16,IOT-App,EPS-Store,2000
+DTLS,IoT,21,EPS-Store,IOT-App,2000
+M2M service architecture,M2M,14,EPS-Store,EPS-Store,2000
+M2M gateway selection,M2M,14,EPS-Store,EPS-Store,2000
+Bluetooth smart device,M2M,14,EPS-Store,EPS-Store,2000
+Standardization,IoT,13,EPS-Store,IOT-App,2000
+IEEE 802.15.4,IoT,14,EPS-Store,IOT-App,2000
+Internet of Things,AAL,13,EPS-Source,EPS-Store,2000
+SDN,IoT,18,EPS-Store,IOT-App,2000
+ECC,IoT,12,EPS-Store,IOT-App,2000
+Software engineering,IoT,18,EPS-Store,IOT-App,2000
+Internet computing,IoT,18,EPS-Store,IOT-App,2000
+software engineering,IoT,13,EPS-Store,IOT-App,2000
+Open source,IoT,12,EPS-Store,IOT-App,2000
+cloud service platform,IoT,12,EPS-Store,IOT-App,2000
+agriculture production,IoT,12,EPS-Store,IOT-App,2000
+the internet of things,IoT,12,EPS-Store,IOT-App,2000
+Semantic interoperability,IoT,12,EPS-Store,IOT-App,2000
+federation,IoT,12,EPS-Store,IOT-App,2000
+virtual sensors,IoT,12,EPS-Store,IOT-App,2000
+energy sustainability,IoT,12,EPS-Store,IOT-App,2000
+green computing,IoT,12,EPS-Store,IOT-App,2000
+Industrial Internet,IoT,15,EPS-Store,IOT-App,2000
+Sensor Data,IoT,11,EPS-Store,IOT-App,2000
+authentication,IoT,21,EPS-Store,IOT-App,2000
+Mobile,IoT,14,EPS-Store,IOT-App,2000
+IoT services,IoT,15,EPS-Store,IOT-App,2000
+information technology,IoT,11,EPS-Store,IOT-App,2000
+Smart devices,IoT,16,EPS-Store,IOT-App,2000
+Internet of Things,CoT,17,EPS-Source,EPS-Store,2000
+ontology,IoT,15,EPS-Store,IOT-App,2000
+knowledge base,IoT,12,EPS-Store,IOT-App,2000
+Beacon,IoT,15,EPS-Store,IOT-App,2000
+IoT,QoS,18,IOT-App,EPS-Store,2000
+SoC,DC,23,IOT-Network,EPS-Source,2000
+control Lyapunov function,DC,12,IOT-Network,EPS-Source,2000
+Combination energy,DC,12,IOT-Network,EPS-Source,2000
+Storage device,DC,12,IOT-Network,EPS-Source,2000
+Solar photovoltaic,DC,12,IOT-Network,EPS-Source,2000
+Self excited induction generator,induction generator,12,IOT-Network,IOT-Network,2000
+Battery energy storage system,induction generator,12,EPS-Grid,IOT-Network,2000
+active and reactive power compensation,induction generator,12,IOT-Network,IOT-Network,2000
+Electric Vehicles,PV,12,IOT-Network,EPS-Source,2000
+Hybrid Grid,BESS,12,IOT-Network,IOT-Network,2000
+Micro Grid,BESS,12,IOT-Network,IOT-Network,2000
+Generation Adequacy,BESS,12,IOT-Network,IOT-Network,2000
+System Stability,BESS,12,IOT-Network,IOT-Network,2000
+Wind Turbine,BESS,12,IOT-Network,IOT-Network,2000
+grid impacts,PV,12,IOT-Network,EPS-Source,2000
+distribution-connected,PV,12,IOT-Network,EPS-Source,2000
+transmission stability,PV,12,IOT-Network,EPS-Source,2000
+composite load model,PV,12,IOT-Network,EPS-Source,2000
+PVD1,PV,12,IOT-Network,EPS-Source,2000
+Energy storage systems,DC,12,IOT-Network,EPS-Source,2000
+Lighting Smart Grid,DC,11,IOT-Network,EPS-Source,2000
+Internet of Things,MTC,12,EPS-Source,IOT-Network,2000
+Battery energy storage,BESS,13,IOT-Network,IOT-Network,2000
+microgrid,PEVs,11,EPS-Source,EPS-Grid,2000
+energy management,state of charge,11,EPS-Store,IOT-Network,2000
+5G,WSN,14,IOT-App,IOT-Network,2000
+SVM,IoT,11,IOT-Network,IOT-App,2000
+service provisioning,IoT,14,IOT-Network,IOT-App,2000
+LPWAN,LoRa,11,EPS-Load,IOT-App,2000
+IoT,LoRa,55,IOT-App,IOT-App,2000
+network slicing,5G,24,IOT-Network,IOT-App,2000
+LoRaWAN,IoT,31,IOT-Network,IOT-App,2000
+Localization,IoT,21,IOT-Compute,IOT-App,2000
+DNS,IoT,13,IOT-App,IOT-App,2000
+neighbor discovery,IoT,12,IOT-App,IOT-App,2000
+Physical layer security,physical layer,12,IOT-App,IOT-App,2000
+performance evaluation,IoT,12,IOT-App,IOT-App,2000
+Automatic test equipment,5G,14,IOT-App,IOT-App,2000
+hardware abstraction,5G,14,IOT-App,IOT-App,2000
+test executive,5G,14,IOT-App,IOT-App,2000
+5G Mobile Networks,5G,14,IOT-App,IOT-App,2000
+Wireless Sensor Network,Internet of Things,11,IOT-Network,EPS-Source,2000
+DDS,IoT,12,IOT-App,IOT-App,2000
+5G network,5G,26,IOT-App,IOT-App,2000
+clustering,IoT,11,IOT-App,IOT-App,2000
+IoT,intrusion detection system,12,IOT-App,IOT-Network,2000
+cryptography,IoT,16,IOT-App,IOT-App,2000
+quality of experience,IoT,12,IOT-App,IOT-App,2000
+IoT gateway,IoT,27,IOT-App,IOT-App,2000
+Throughput,IoT,18,IOT-App,IOT-App,2000
+Delay,IoT,17,IOT-App,IOT-App,2000
+iFogSim,IoT,12,IOT-App,IOT-App,2000
+reliability,IoT,16,IOT-App,IOT-App,2000
+Game theory,IoT,19,IOT-App,IOT-App,2000
+e-Health,CRIP,12,IOT-App,IOT-App,2000
+pervasive healthcare,CRIP,12,IOT-App,IOT-App,2000
+telemedicine,CRIP,12,IOT-App,IOT-App,2000
+ambient assisted living,CRIP,12,IOT-App,IOT-App,2000
+telecare,CRIP,12,IOT-App,IOT-App,2000
+sensors,CRIP,12,EPS-Store,IOT-App,2000
+internet of things,CRIP,12,EPS-Store,IOT-App,2000
+health devices,CRIP,12,IOT-App,IOT-App,2000
+open source,CRIP,12,IOT-App,IOT-App,2000
+IEEE 11073,CRIP,12,IOT-App,IOT-App,2000
+edge computing,IoT,107,IOT-App,IOT-App,2000
+RSSI,Internet of Things,12,IOT-App,EPS-Source,2000
+WPT,RF,11,IOT-App,IOT-App,2000
+Distributed computing,IoT,18,IOT-App,IOT-App,2000
+Wireless communication,IoT,31,IOT-App,IOT-App,2000
+Perception layer,IoT,12,IOT-App,IOT-App,2000
+power control,IoT,12,IOT-App,IOT-App,2000
+simultaneous wireless information and power transfer,RF,13,IOT-App,IOT-App,2000
+u-Disaster,P2P,15,IOT-App,IOT-App,2000
+Peer to peer,P2P,15,IOT-App,IOT-App,2000
+P2P cloud network,P2P,15,IOT-App,IOT-App,2000
+Disaster situations,P2P,15,IOT-App,IOT-App,2000
+Disaster Index,P2P,15,IOT-App,IOT-App,2000
+Land Safety,P2P,15,IOT-App,IOT-App,2000
+Machine-to-machine,M2M,14,IOT-App,EPS-Store,2000
+4G,M2M,12,IOT-App,EPS-Store,2000
+3rd Generation partnership project,M2M,12,IOT-App,EPS-Store,2000
+Long-term-evolution-advanced,M2M,12,IOT-App,EPS-Store,2000
+Latency,BLE,12,IOT-Network,EPS-Store,2000
+Discovery,BLE,12,IOT-App,EPS-Store,2000
+Energy,BLE,12,EPS-Load,EPS-Store,2000
+data privacy,IoT,16,IOT-App,IOT-App,2000
+data integrity,IoT,14,IOT-App,IOT-App,2000
+Edge Computing,IoT,87,IOT-App,IOT-App,2000
+Internet of Thing,IoT,38,IOT-App,IOT-App,2000
+cyber security,IoT,32,IOT-App,IOT-App,2000
+Dynamic Group Members,IoT,12,IOT-App,IOT-App,2000
+Lightweight Authentication,IoT,14,IOT-App,IOT-App,2000
+Cellular Network,IoT,16,IOT-App,IOT-App,2000
+sensor data aggregation,M2M,12,IOT-App,EPS-Store,2000
+in memory processing,M2M,12,IOT-App,EPS-Store,2000
+IoT (the Internet of Things),M2M,12,IOT-App,EPS-Store,2000
+Sensor discovery,IoT,28,IOT-App,IOT-App,2000
+Sensor integration,IoT,28,IOT-App,IOT-App,2000
+Real-time data analysis,IoT,28,IOT-App,IOT-App,2000
+Cloud computing,loT,12,EPS-Source,IOT-Network,2000
+Wearable sensors,IoT,20,IOT-App,IOT-App,2000
+Prototype,IoT,12,IOT-App,IOT-App,2000
+Quality of service,QoS,16,IOT-App,EPS-Store,2000
+IoT,mHealth,12,IOT-App,IOT-App,2000
+Access Control,IoT,26,IOT-App,IOT-App,2000
+Kubernetes,IoT,16,IOT-App,IOT-App,2000
+threat model,IoT,12,IOT-App,IOT-App,2000
+fog computing,IoT,89,IOT-App,IOT-App,2000
+cloud platform,IoT,21,IOT-App,IOT-App,2000
+Software Defined Networking,IoT,17,IOT-App,IOT-App,2000
+Fog networking,IoT,11,IOT-App,IOT-App,2000
+ECG,IoT,12,IOT-App,IOT-App,2000
+Node-RED,IoT,14,IOT-App,IOT-App,2000
+Security framework,IoT,11,IOT-App,IOT-App,2000
+factory of the future,IoT,18,IOT-App,IOT-App,2000
+security and privacy,IoT,11,IOT-App,IOT-App,2000
+Context-aware system,IoT,11,IOT-App,IOT-App,2000
+OGC SensorThings API,IoT,15,IOT-App,IOT-App,2000
+network virtualization,IoT,15,IOT-App,IOT-App,2000
+virtual network embedding,IoT,11,IOT-App,IOT-App,2000
+MAC,IoT,15,IOT-App,IOT-App,2000
+Industrial Internet of Things,Internet of Things,16,IOT-App,EPS-Source,2000
+Mobile sink,IoT,12,IOT-App,IOT-App,2000
+Raspberry Pi,IoT,30,IOT-App,IOT-App,2000
+Smart objects,IoT,11,IOT-App,IOT-App,2000
+IoT ecosystem,IoT,20,IOT-App,IOT-App,2000
+Data privacy,IoT,32,IOT-App,IOT-App,2000
+data collection,IoT,20,IOT-App,IOT-App,2000
+Mobile Edge Computing,IoT,16,IOT-App,IOT-App,2000
+Arduino,IoT,22,IOT-App,IOT-App,2000
+Anonymity,IoT,15,IOT-App,IOT-App,2000
+image processing,IoT,13,IOT-App,IOT-App,2000
+Security and Privacy,IoT,12,IOT-App,IOT-App,2000
+Smart Healthcare,IoT,12,IOT-App,IOT-App,2000
+Simulation,IoT,15,IOT-App,IOT-App,2000
+Cryptography,IoT,16,IOT-App,IOT-App,2000
+indoor positioning,IoT,12,EPS-Source,IOT-App,2000
+location based messaging,IoT,12,EPS-Source,IOT-App,2000
+smart buildings,IoT,12,EPS-Source,IOT-App,2000
+Decision-making,distribution network operator,12,EPS-Source,EPS-Source,2000
+Distribution network operator,distribution network operator,12,EPS-Source,EPS-Source,2000
+Multi-micro-grid,distribution network operator,12,EPS-Source,EPS-Source,2000
+Multi follower bi-level programming,distribution network operator,12,EPS-Source,EPS-Source,2000
+Demand response,distribution network operator,12,EPS-Source,EPS-Source,2000
+Smart meter,PV,16,EPS-Source,EPS-Source,2000
+Dynamic tariff,PV,16,EPS-Source,EPS-Source,2000
+Mixed-integer non-linear programming,PV,16,EPS-Source,EPS-Source,2000
+Net present value analysis,PV,16,EPS-Source,EPS-Source,2000
+DC bus voltage,DC,12,EPS-Source,EPS-Source,2000
+capacity outage probability table,PV,11,EPS-Source,EPS-Source,2000
+loss of load expectation,PV,11,EPS-Source,EPS-Source,2000
+loss of energy expectation,PV,11,EPS-Source,EPS-Source,2000
+CC,PV,11,EPS-Source,EPS-Source,2000
+capacity credit,PV,11,EPS-Source,EPS-Source,2000
+ELCC,PV,11,EPS-Source,EPS-Source,2000
+effective load carrying capability,PV,11,EPS-Source,EPS-Source,2000
+Energy Management System,DC,12,EPS-Source,EPS-Source,2000
+nergy storage system,PV,11,EPS-Source,EPS-Source,2000
+mixed integer linear programming,PV,22,EPS-Source,EPS-Source,2000
+optimization. nergy storage system,PV,11,EPS-Source,EPS-Source,2000
+optimization. E,PV,11,EPS-Source,EPS-Source,2000
+analytical model,WSN,12,EPS-Load,IOT-Network,2000
+LPWAN,IoT,13,EPS-Load,IOT-App,2000
+concurrent broadcast,Wi-Fi,12,EPS-Load,IOT-Network,2000
+network flooding,Wi-Fi,12,EPS-Load,IOT-Network,2000
+asynchronous duty cycle,Wi-Fi,12,EPS-Load,IOT-Network,2000
+Edge computing,IoT,14,EPS-Load,IOT-App,2000
+Cluster,IoT,13,EPS-Load,IOT-App,2000
+Communication,IoT,13,EPS-Load,IOT-App,2000
+Energy,IoT,13,EPS-Load,IOT-App,2000
+Sensor nodes,IoT,13,EPS-Load,IOT-App,2000
+Security in IoT,IoT,12,EPS-Store,IOT-App,2000
+Denial of service attacks,IoT,12,EPS-Store,IOT-App,2000
+Data analysis,IoT,12,EPS-Store,IOT-App,2000
+Secure routing protocol,IoT,12,EPS-Store,IOT-App,2000
+Remote laboratory,IoT,18,EPS-Store,IOT-App,2000
+FPGA hardware design laboratory,IoT,18,EPS-Store,IOT-App,2000
+IoT System design laboratory,IoT,18,EPS-Store,IOT-App,2000
+Group-Group experiment,IoT,18,EPS-Store,IOT-App,2000
+Hybrid cloud,IoT,18,EPS-Store,IOT-App,2000
+Docker container,IoT,18,EPS-Store,IOT-App,2000
+Analytical model,IoT,12,EPS-Store,IOT-App,2000
+Heterogeneous and homogeneous multi server,IoT,12,EPS-Store,IOT-App,2000
+Multi-class,IoT,12,EPS-Store,IOT-App,2000
+Queuing system,IoT,12,EPS-Store,IOT-App,2000
+Priority,IoT,12,EPS-Store,IOT-App,2000
+virtualization,IoT,12,EPS-Store,IOT-App,2000
+Genetic Algorithm,IoT,13,EPS-Store,IOT-App,2000
+3D Printing,3D,12,EPS-Store,EPS-Store,2000
+Cloud Platform,3D,12,EPS-Store,EPS-Store,2000
+Remote Monitoring,3D,12,EPS-Store,EPS-Store,2000
+Hybrid Architecture,3D,12,EPS-Store,EPS-Store,2000
+Application Deployment,IoT,12,EPS-Store,IOT-App,2000
+wind farm,DC,12,IOT-Percept,EPS-Source,2000
+line fault,DC,12,IOT-Percept,EPS-Source,2000
+Energy storage scheduling,energy storage,16,IOT-Percept,EPS-Source,2000
+Network losses,energy storage,12,IOT-Percept,EPS-Source,2000
+Renewable energy uncertainty,energy storage,12,IOT-Percept,EPS-Source,2000
+Nomenclature,energy storage,12,IOT-Percept,EPS-Source,2000
+bidirectional DC-DC converter,DC,13,IOT-Percept,EPS-Source,2000
+Battery Management system,DC,11,IOT-Percept,EPS-Source,2000
+NSC,DC,11,IOT-Percept,EPS-Source,2000
+Nanogrid System Controller,DC,11,IOT-Percept,EPS-Source,2000
+contract theory,EVs,13,IOT-Network,EPS-Source,2000
+SW-WSN,WSN,12,IOT-Network,IOT-Network,2000
+Small world WSN,WSN,12,IOT-Network,IOT-Network,2000
+SWC,WSN,30,IOT-Network,IOT-Network,2000
+small world characteristics,WSN,30,IOT-Network,IOT-Network,2000
+energy balancing,WSN,12,IOT-Network,IOT-Network,2000
+data latency,WSN,12,IOT-Network,IOT-Network,2000
+node localization,WSN,18,IOT-Network,IOT-Network,2000
+data MULEs,WSN,18,IOT-Network,IOT-Network,2000
+throughput performance,WSN,18,IOT-Network,IOT-Network,2000
+Secure data stream,IoT,14,IOT-Network,IOT-App,2000
+Usability,IoT,14,IOT-Network,IOT-App,2000
+Hadoop ecosystem,IoT,13,IOT-Network,IOT-App,2000
+NDN,loT,15,IOT-Network,IOT-Network,2000
+Named Data Networking,loT,15,IOT-Network,IOT-Network,2000
+Forwarding,loT,15,IOT-Network,IOT-Network,2000
+MDP,loT,15,IOT-Network,IOT-Network,2000
+Markov Decision Process,loT,15,IOT-Network,IOT-Network,2000
+Latency,loT,15,IOT-Network,IOT-Network,2000
+Delay,loT,15,IOT-App,IOT-Network,2000
+Smart security systems,IoT,12,IOT-Network,IOT-App,2000
+Smart business,IoT,12,IOT-Network,IOT-App,2000
+Radio Frequency identification,IoT,12,IOT-Network,IOT-App,2000
+REID,IoT,12,IOT-Network,IOT-App,2000
+Global Positioning System,IoT,24,IOT-Network,IOT-App,2000
+GPS,IoT,14,IOT-Network,IOT-App,2000
+Global System for Nlobile communication,IoT,12,IOT-Network,IOT-App,2000
+GSNI,IoT,12,IOT-Network,IOT-App,2000
+Short Nlessage Service,IoT,12,IOT-Network,IOT-App,2000
+SNIS,IoT,12,IOT-Network,IOT-App,2000
+cloud networking,IoT,12,IOT-Network,IOT-App,2000
+fuzzy algorithm,IoT,12,IOT-Network,IOT-App,2000
+Wireless Sensor Technology,IoT,12,IOT-Network,IOT-App,2000
+GSM,IoT,12,IOT-Network,IOT-App,2000
+FMCG,IoT,12,IOT-Network,IOT-App,2000
+Fast Moving Consumer Goods,IoT,12,IOT-Network,IOT-App,2000
+SWOT,IoT,12,IOT-Network,IOT-App,2000
+Success Weakness Opportunities and Threats Analysis,IoT,12,IOT-Network,IOT-App,2000
+Unmanned Aerial Vehicle,CH,14,IOT-Network,IOT-Network,2000
+Unmanned Aerial System,CH,14,IOT-Network,IOT-Network,2000
+Wireless Sensor Network,CH,14,IOT-Network,IOT-Network,2000
+Cluster Head Election,CH,14,IOT-Network,IOT-Network,2000
+Security,CH,14,EPS-Grid,IOT-Network,2000
+blockchain,IoT,17,IOT-Network,IOT-App,2000
+AWS IoT,IoT,36,IOT-Network,IOT-App,2000
+WSN Metrics,WSN,12,IOT-Network,IOT-Network,2000
+Smart City,WSN,12,IOT-Network,IOT-Network,2000
+IoT Security,WSN,12,IOT-Network,IOT-Network,2000
+Intrusion Detection,WSN,12,IOT-Network,IOT-Network,2000
+WSN Security Treatment,WSN,12,IOT-Network,IOT-Network,2000
+Adaptive Services,IoT,12,IOT-Network,IOT-App,2000
+User Profile,IoT,12,IOT-Network,IOT-App,2000
+Deep Learning,IoT,25,IOT-Network,IOT-App,2000
+Wi-Fi radar,Wi-Fi,20,IOT-Network,IOT-Network,2000
+collapsed structure,Wi-Fi,20,IOT-Network,IOT-Network,2000
+coverage,Wi-Fi,20,IOT-Network,IOT-Network,2000
+crack sensor,RFID,12,IOT-Network,IOT-Network,2000
+RFID on metal,RFID,12,IOT-Network,IOT-Network,2000
+robust chipless RFID,RFID,12,IOT-Network,IOT-Network,2000
+SHM,RFID,12,IOT-Network,IOT-Network,2000
+structural health monitoring,RFID,12,IOT-Network,IOT-Network,2000
+RFID tags,RFID,12,IOT-App,IOT-Network,2000
+Temperature sensor,RFID,12,IOT-Network,IOT-Network,2000
+UHF communication,RFID,12,IOT-Network,IOT-Network,2000
+security,intrusion detection system,13,EPS-Source,IOT-Network,2000
+data veracity,IoT,12,IOT-Network,IOT-App,2000
+unsupervised learning,IoT,12,IOT-Network,IOT-App,2000
+Fog,IoT,12,IOT-Network,IOT-App,2000
+End-edge-cloud Network Architecture,IoT,12,IOT-Network,IOT-App,2000
+Smart Classroom,IoT,12,IOT-Network,IOT-App,2000
+IoT,network slicing,18,IOT-App,IOT-Network,2000
+5G,MEC,16,IOT-App,IOT-Network,2000
+IoT,MEC,18,IOT-App,IOT-Network,2000
+Cloud Services,MEC,12,IOT-Network,IOT-Network,2000
+Video Surveillance,MEC,12,IOT-Network,IOT-Network,2000
+media access control,IoT,11,IOT-Network,IOT-App,2000
+energy efficiency,5G,12,IOT-Network,IOT-App,2000
+power splitting,IoT,15,IOT-Network,IOT-App,2000
+relaying,IoT,12,IOT-Network,IOT-App,2000
+Internet of vehicles,IoV,14,IOT-Network,IOT-App,2000
+energy efficiency,MEC,11,IOT-Network,IOT-Network,2000
+security,5G,12,EPS-Source,IOT-App,2000
+Security in 5G,5G,14,IOT-Network,IOT-App,2000
+5G Mobile Wireless Networks,5G,14,IOT-Network,IOT-App,2000
+IDS,5G,14,IOT-Network,IOT-App,2000
+Intrusion detection System,5G,14,IOT-Network,IOT-App,2000
+Network Slicing,network slicing,12,IOT-Network,IOT-Network,2000
+Energy Consumption,IoT,24,IOT-Network,IOT-App,2000
+Resource Allocation,IoT,13,IOT-Network,IOT-App,2000
+reinforcement learning,IoT,11,IOT-Network,IOT-App,2000
+Wi-Fi Halow,Wi-Fi,14,IOT-Network,IOT-Network,2000
+C-RAN,IoT,22,IOT-Network,IOT-App,2000
+IoT platforms,IoT,18,IOT-Network,IOT-App,2000
+augmented reality,IoT,11,IOT-Network,IOT-App,2000
+energy efficient,IoT,15,IOT-Network,IOT-App,2000
+IPv6 proxy,IPv6,12,IOT-Network,EPS-Store,2000
+Big data,IPv6,12,IOT-Network,EPS-Store,2000
+Data mining,IPv6,12,IOT-Network,EPS-Store,2000
+Smart health,IPv6,12,IOT-Network,EPS-Store,2000
+Matching Game,IoT,11,IOT-Network,IOT-App,2000
+latency,IoT,20,IOT-Network,IOT-App,2000
+Computation offloading,IoT,20,IOT-Network,IOT-App,2000
+joint communication and computation optimization,IoT,12,IOT-Network,IOT-App,2000
+on-demand resource allocation,IoT,12,IOT-Network,IOT-App,2000
+Keywords Auto-ID,RFID,12,IOT-Network,IOT-Network,2000
+EPC,RFID,12,IOT-Network,IOT-Network,2000
+ISO,RFID,12,IOT-Network,IOT-Network,2000
+line of sight,RFID,12,IOT-Network,IOT-Network,2000
+real time locating system,RFID,12,IOT-Network,IOT-Network,2000
+standardization,RFID,12,IOT-Network,IOT-Network,2000
+tracking Introduction (Heading 1),RFID,12,IOT-Network,IOT-Network,2000
+GDPR,IoT,11,IOT-Network,IOT-App,2000
+Threat Detection,IoT,12,IOT-Network,IOT-App,2000
+MQTT protocol,IoT,15,IOT-Network,IOT-App,2000
+iot honeypot,IoT,12,IOT-Network,IOT-App,2000
+threat detection,IoT,12,IOT-Network,IOT-App,2000
+system security,IoT,12,IOT-Network,IOT-App,2000
+unmanned aerial vehicles,IoT,12,IOT-Compute,IOT-App,2000
+channel models,IoT,12,IOT-Compute,IOT-App,2000
+cyber-physical networks,IoT,20,IOT-Compute,IOT-App,2000
+Business models,MGs,12,IOT-Compute,IOT-Compute,2000
+Electricity tariffs,MGs,12,IOT-Compute,IOT-Compute,2000
+renewable energy sources,DG,12,EPS-Source,EPS-Source,2000
+wind turbines,DG,12,IOT-Compute,EPS-Source,2000
+voltage source converter,VSC,11,IOT-Compute,IOT-Compute,2000
+Wireless IoT smart meter,IoT,12,IOT-App,IOT-App,2000
+HBase,IoT,12,IOT-App,IOT-App,2000
+Stuck-at,IoT,12,IOT-App,IOT-App,2000
+Smart meter,smart energy system,16,EPS-Source,IOT-App,2000
+Smart grid,smart energy system,16,EPS-Source,IOT-App,2000
+Smart cities,smart energy system,16,IOT-App,IOT-App,2000
+IoT,smart energy system,16,IOT-App,IOT-App,2000
+ICT,smart energy system,16,IOT-App,IOT-App,2000
+HAN,smart energy system,16,IOT-App,IOT-App,2000
+NAN,smart energy system,16,IOT-App,IOT-App,2000
+WAN,smart energy system,16,IOT-App,IOT-App,2000
+Demand response management,SG,12,IOT-App,IOT-App,2000
+Flow management,SG,12,IOT-App,IOT-App,2000
+Software-defined networks,SG,12,IOT-App,IOT-App,2000
+Stackelberg game,SG,12,IOT-App,IOT-App,2000
+Virtual controllers,SG,12,IOT-App,IOT-App,2000
+Intrusion detection,IoT,12,IOT-App,IOT-App,2000
+edge computing,DNN,12,IOT-App,IOT-App,2000
+ICT architectures,IoT,15,IOT-App,IOT-App,2000
+Atrial fibrillation,ECG,15,IOT-App,IOT-App,2000
+ECG signal processing,ECG,15,IOT-App,IOT-App,2000
+features extraction,ECG,15,IOT-App,IOT-App,2000
+WBSN,ECG,15,IOT-App,IOT-App,2000
+5G and beyond networks,IoT,14,IOT-App,IOT-App,2000
+named data networks,IoT,14,IOT-App,IOT-App,2000
+wildfire management,IoT,14,IOT-App,IOT-App,2000
+Energy optimization,IoT,12,IOT-App,IOT-App,2000
+Smart communities,IoT,12,IOT-App,IOT-App,2000
+Activities of daily living,IoT,12,IOT-App,IOT-App,2000
+Wireless sensors network,IoT,12,IOT-App,IOT-App,2000
+Sensors' activation scheduling algorithm,IoT,12,IOT-App,IOT-App,2000
+Internet of Things,HAL,16,EPS-Source,IOT-App,2000
+Traffic,HAL,16,IOT-App,IOT-App,2000
+Data acquisition,HAL,16,IOT-App,IOT-App,2000
+Feature extraction,HAL,16,IOT-App,IOT-App,2000
+Information processing,HAL,16,IOT-App,IOT-App,2000
+Industry 4,Industry 4.0,22,IOT-App,IOT-App,2000
+0,Industry 4.0,26,IOT-App,IOT-App,2000
+Internet of Things,HDPCR,12,EPS-Source,IOT-App,2000
+Heterogeneous wireless sensor networks,HDPCR,12,IOT-App,IOT-App,2000
+Area coverage,HDPCR,12,IOT-App,IOT-App,2000
+Magnetoresistive sensor,MR,16,IOT-App,IOT-App,2000
+research and development (R&D) guide,MR,16,IOT-App,IOT-App,2000
+roadmap,MR,16,IOT-App,IOT-App,2000
+smart living,MR,16,IOT-App,IOT-App,2000
+Internet of Things,MR,16,EPS-Source,IOT-App,2000
+Data offloading,IoT,12,IOT-App,IOT-App,2000
+Backscatter modulation,BM,15,IOT-App,IOT-App,2000
+performance evaluation,BM,15,IOT-App,IOT-App,2000
+negative resistance,BM,15,IOT-App,IOT-App,2000
+reflection amplifier,BM,15,IOT-App,IOT-App,2000
+bidirectional amplifier,BM,15,IOT-App,IOT-App,2000
+read-write backscatter tag,BM,15,IOT-App,IOT-App,2000
+RFID tags,BM,15,IOT-App,IOT-App,2000
+geometric representation,BM,15,IOT-App,IOT-App,2000
+feature selection,IoT,12,IOT-App,IOT-App,2000
+IoT,GUI,15,IOT-App,IOT-App,2000
+Industrial IoT,Internet of Things,18,IOT-App,EPS-Source,2000
+Automation,Internet of Things,18,IOT-App,EPS-Source,2000
+Wearable Sensors,Internet of Things,12,IOT-App,EPS-Source,2000
+Thing speak,Internet of Things,18,IOT-App,EPS-Source,2000
+Connected health,IoT,12,IOT-App,IOT-App,2000
+IoT,recurrent neural networks,11,IOT-App,IOT-App,2000
+Arrhythmia,ECG,15,IOT-App,IOT-App,2000
+atrial fibrillation,ECG,15,IOT-App,IOT-App,2000
+convolutional neural network,ECG,15,IOT-App,IOT-App,2000
+electrocardiogram,ECG,15,IOT-App,IOT-App,2000
+artificial intelligence of things,ECG,15,IOT-App,IOT-App,2000
+wearable device,ECG,15,IOT-App,IOT-App,2000
+application,ECG,15,IOT-App,IOT-App,2000
+cloud server,ECG,15,IOT-App,IOT-App,2000
+smart city application,IoT,15,IOT-App,IOT-App,2000
+micro service,IoT,20,IOT-App,IOT-App,2000
+dynamic resource management,IoT,15,IOT-App,IOT-App,2000
+continuous monitoring,IoT,14,IOT-App,IOT-App,2000
+waste management,IoT,12,IOT-App,IOT-App,2000
+search engine,IoT,14,IOT-App,IOT-App,2000
+challenges and research opportunities,IoT,14,IOT-App,IOT-App,2000
+data mining and analytics,IoT,14,IOT-App,IOT-App,2000
+GSM module,LPG,14,IOT-App,IOT-App,2000
+gas sensor,LPG,14,IOT-App,IOT-App,2000
+load sensor,LPG,14,IOT-App,IOT-App,2000
+Arduino Uno R3,LPG,14,IOT-App,IOT-App,2000
+internet of things,LPG,14,EPS-Store,IOT-App,2000
+IoT,RDCM,12,IOT-App,IOT-App,2000
+WSN,RDCM,12,IOT-Network,IOT-App,2000
+data collection,RDCM,12,IOT-App,IOT-App,2000
+energy consumption,RDCM,12,EPS-Store,IOT-App,2000
+multivariate sensors,RDCM,12,IOT-App,IOT-App,2000
+PSO,IoT,12,IOT-App,IOT-App,2000
+machine learning,ML,13,IOT-App,IOT-App,2000
+Internet of Things,ML,15,EPS-Source,IOT-App,2000
+testing platform,wireless sensor networks,21,IOT-App,EPS-Store,2000
+heterogeneity,wireless sensor networks,21,IOT-App,EPS-Store,2000
+optimization,MEC,13,EPS-Store,IOT-Network,2000
+Antenna measurements,5G,12,IOT-App,IOT-App,2000
+Instruments,5G,12,IOT-App,IOT-App,2000
+Battery charge measurement,5G,12,IOT-App,IOT-App,2000
+Power measurement,5G,12,IOT-App,IOT-App,2000
+Batteries,5G,12,IOT-App,IOT-App,2000
+IoT communication,IoT,11,IOT-App,IOT-App,2000
+URLLC,IoT,22,IOT-App,IOT-App,2000
+Pricing mechanism,IoT,15,IOT-App,IOT-App,2000
+loT network providers,IoT,15,IOT-App,IOT-App,2000
+Complementary services,IoT,15,IOT-App,IOT-App,2000
+Security protocols,5G,12,IOT-App,IOT-App,2000
+Quantum hash function,5G,12,IOT-App,IOT-App,2000
+Quantum walks,5G,12,IOT-App,IOT-App,2000
+efficiency,IoT,17,IOT-App,IOT-App,2000
+Real-time wireless networks,D-2-PaS,12,IOT-App,IOT-App,2000
+disturbances,D-2-PaS,12,IOT-App,IOT-App,2000
+distributed and dynamic packet scheduling,D-2-PaS,12,IOT-App,IOT-App,2000
+5G,UAVs,11,IOT-App,IOT-App,2000
+Energy-harvesting,WSN,12,IOT-App,IOT-Network,2000
+Routing,WSN,12,IOT-App,IOT-Network,2000
+Heterogeneity,WSN,12,IOT-App,IOT-Network,2000
+Wireless ad hoc network,IoT,12,IOT-App,IOT-App,2000
+Spectrum sensing,IoT,12,IOT-App,IOT-App,2000
+Medium access control,IoT,18,IOT-App,IOT-App,2000
+RF fingerprinting,IoT,22,IOT-App,IOT-App,2000
+Data forwarding,IoT,14,IOT-App,IOT-App,2000
+energy harvesting,WPT,14,IOT-App,IOT-App,2000
+congestion control,5G,20,IOT-App,IOT-App,2000
+unmanned aerial vehicle,UAVs,13,IOT-App,IOT-App,2000
+edge computing,Internet of Things,14,IOT-App,EPS-Source,2000
+Machine learning,ML,13,IOT-App,IOT-App,2000
+machine learning,5G,18,IOT-App,IOT-App,2000
+decision tree algorithm,5G,18,IOT-App,IOT-App,2000
+C4.5,5G,18,IOT-App,IOT-App,2000
+machine learning,DT,11,IOT-App,IOT-App,2000
+communication constraints,IoT,12,IOT-App,IOT-App,2000
+decentralized application,IoT,12,IOT-App,IOT-App,2000
+Internet of Things technology,Internet of Things,13,IOT-App,EPS-Source,2000
+Role-based access control,IoT,12,IOT-App,IOT-App,2000
+Cooperative RBAC,IoT,12,IOT-App,IOT-App,2000
+Collaboration IoT-based RBAC,IoT,12,IOT-App,IOT-App,2000
+Cooperative trust evaluation,IoT,12,IOT-App,IOT-App,2000
+Massive IoT application,IoT,12,IOT-App,IOT-App,2000
+LoRa modulation,LoRa,30,IOT-App,IOT-App,2000
+coverage probability,LoRa,18,IOT-App,IOT-App,2000
+SNR and SIR thresholds,LoRa,18,IOT-App,IOT-App,2000
+network capacity planning,LoRa,18,IOT-App,IOT-App,2000
+Energy analysis,IoT,16,IOT-App,IOT-App,2000
+PV monitoring,IoT,18,IOT-App,IOT-App,2000
+low-cost solutions,IoT,18,IOT-App,IOT-App,2000
+LoRa technology,IoT,18,IOT-App,IOT-App,2000
+Task offloading,IoT,13,IOT-App,IOT-App,2000
+UAV-aided edge computing,IoT,13,IOT-App,IOT-App,2000
+energy minimization,IoT,13,IOT-App,IOT-App,2000
+bit allocation,IoT,13,IOT-App,IOT-App,2000
+trajectory optimization,IoT,13,IOT-App,IOT-App,2000
+Software defined networking,IoT,32,IOT-App,IOT-App,2000
+Network functions virtualization,IoT,15,IOT-App,IOT-App,2000
+Wireless communication,LoRa,12,IOT-App,IOT-App,2000
+Chirp modulation,LoRa,12,IOT-App,IOT-App,2000
+Low-power electronics,LoRa,12,IOT-App,IOT-App,2000
+Performance evaluation,LoRa,12,IOT-App,IOT-App,2000
+Crowdsensing,IoT,12,IOT-App,IOT-App,2000
+Authentication,IoV,12,IOT-App,IOT-App,2000
+VANETs,IoV,14,IOT-App,IOT-App,2000
+MANET,IoV,14,IOT-App,IOT-App,2000
+Unmanned aerial vehicles,UAVs,13,IOT-App,IOT-App,2000
+Trajectory,UAVs,13,IOT-App,IOT-App,2000
+www,IoT,24,IOT-App,IOT-App,2000
+org,IoT,24,IOT-App,IOT-App,2000
+0,IoT,13,IOT-App,IOT-App,2000
+w3,IoT,18,IOT-App,IOT-App,2000
+Computer architecture,IoT,15,IOT-App,IOT-App,2000
+online algorithm,IoT,12,IOT-App,IOT-App,2000
+multi-armed bandit,IoT,12,IOT-App,IOT-App,2000
+wireless power transfer,WPT,14,IOT-App,IOT-App,2000
+green IoT,IoT,16,IOT-App,IOT-App,2000
+Narrow-band IoT,IoT,21,IOT-App,IOT-App,2000
+Sensor Mesh Networks,IoT,21,IOT-App,IOT-App,2000
+IoT offload metrics,IoT,12,IOT-App,IOT-App,2000
+offload processing,IoT,12,IOT-App,IOT-App,2000
+resource-aware recommendation,IoT,12,IOT-App,IOT-App,2000
+offload-oriented mobile cloud,IoT,12,IOT-App,IOT-App,2000
+cloud computing platforms,IoT,15,IOT-App,IOT-App,2000
+fuzzy adaptive PID,IoT,15,IOT-App,IOT-App,2000
+Zig Bee,IoT,15,IOT-App,IOT-App,2000
+MATLAB software,IoT,15,IOT-App,IOT-App,2000
+Cluster of Sensors,IoT,12,IOT-App,IOT-App,2000
+Computing performance analysis,IoT,12,IOT-App,IOT-App,2000
+Mobile cellular communication,IoT,20,IOT-App,IOT-App,2000
+data rates,IoT,20,IOT-App,IOT-App,2000
+frequency,IoT,20,IOT-App,IOT-App,2000
+3G,IoT,20,IOT-App,IOT-App,2000
+4G and 5G,IoT,20,IOT-App,IOT-App,2000
+Digital twin,DT,12,IOT-App,IOT-App,2000
+virtual reality,DT,15,IOT-App,IOT-App,2000
+robot control,DT,12,IOT-App,IOT-App,2000
+mobile networks,DT,12,IOT-App,IOT-App,2000
+network security,DT,12,EPS-Store,IOT-App,2000
+Wearable device,CR,16,IOT-App,IOT-App,2000
+medical Internet of Things,CR,16,IOT-App,IOT-App,2000
+cardiac management,CR,16,IOT-App,IOT-App,2000
+reflectance photo-plethysmography,CR,16,IOT-App,IOT-App,2000
+motion artifacts,CR,16,IOT-App,IOT-App,2000
+cardiac rehabilitation exercise,CR,16,IOT-App,IOT-App,2000
+heart rate,CR,16,IOT-App,IOT-App,2000
+Big data,Industry 4.0,12,IOT-Network,IOT-App,2000
+CPS,Industry 4.0,12,IOT-App,IOT-App,2000
+Data mining,Industry 4.0,12,IOT-Network,IOT-App,2000
+Apriori algorithm,Industry 4.0,12,IOT-App,IOT-App,2000
+Distributed Ledger Technology,IoT,13,IOT-App,IOT-App,2000
+Attribute-Based Approach,IoT,14,IOT-App,IOT-App,2000
+Sensing devices access platform,IoT,12,IOT-App,IOT-App,2000
+resource description model,IoT,12,IOT-App,IOT-App,2000
+adaptive access method,IoT,12,IOT-App,IOT-App,2000
+learning (artificial intelligence),IoT,13,IOT-App,IOT-App,2000
+IoT forensics,IoT,17,IOT-App,IOT-App,2000
+Probing,IoT,17,IOT-App,IOT-App,2000
+Network telescopes,IoT,17,IOT-App,IOT-App,2000
+Network forensics,IoT,17,IOT-App,IOT-App,2000
+L1-norm PCA,IoT,17,IOT-App,IOT-App,2000
+Forensics,IoT,15,IOT-App,IOT-App,2000
+Satellite broadcasting,IoT,18,IOT-App,IOT-App,2000
+Distance measurement,IoT,18,IOT-App,IOT-App,2000
+dimensionality reduction,IoT,18,IOT-App,IOT-App,2000

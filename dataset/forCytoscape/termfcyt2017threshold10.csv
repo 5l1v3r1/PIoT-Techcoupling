@@ -1,0 +1,566 @@
+YEAR,DOMS,COUNT,SN,TN
+2017,IOT-Compute,6.0,Hybrid Architecture,3D
+2017,EPS-Load,7.0,Operation strategy,DR
+2017,IOT-App,7.0,Just-in-sequence,Industry 4.0
+2017,IOT-App,6.0,investigational method,RFID
+2017,IOT-Network,6.0,Internet of Things,CS
+2017,IOT-App,10.0,Digital signage,IoT
+2017,EPS-Load,6.0,Inclining Block Rate,IBDR
+2017,EPS-Source,8.0,Smart meter,PV
+2017,EPS-Store,8.0,Microgrid,energy storage system
+2017,IOT-Percept,22.0,IoT,RFID
+2017,IOT-Network,6.0,CoAP,Internet of Things
+2017,IOT-App,10.0,TOSCA,IoT
+2017,IOT-Percept,7.0,LSTM,IoT
+2017,IOT-Network,7.0,Wireless Sensor Network,IoT
+2017,IOT-App,7.0,Social Internet of Things,Internet of Things
+2017,IOT-Network,6.0,internet of things,RFID
+2017,IOT-Network,6.0,optical networking,IoT
+2017,EPS-Grid,6.0,condition-based maintenance,CM
+2017,IOT-Percept,7.0,apache spark,IoT
+2017,IOT-App,6.0,benchmark,IoT
+2017,IOT-App,7.0,Powerline communication,IoT
+2017,IOT-Network,6.0,machine-to-machine communications,M2M
+2017,IOT-Network,6.0,Internet of Thing test-bed,IoT
+2017,IOT-App,7.0,Agent-based modelling,IPU
+2017,IOT-App,6.0,trust,IoT
+2017,IOT-Network,10.0,Smart Objects,IoT
+2017,IOT-App,6.0,data driven optimisation,TLS
+2017,IOT-Network,6.0,WSN,TDMA
+2017,EPS-Source,8.0,Net present value analysis,PV
+2017,EPS-Load,6.0,residential and small commercial loads,DR
+2017,EPS-Load,6.0,adaptive dynamic programming,CR
+2017,IOT-App,7.0,Refinement process,IPU
+2017,IOT-Network,7.0,loT,IoT
+2017,IOT-App,8.0,ACT-R,IoT
+2017,EPS-Source,7.0,optimization. E,PV
+2017,EPS-Grid,6.0,maintenance interval,CM
+2017,IOT-Network,7.0,Semantic network,TLS
+2017,EPS-Load,7.0,Human factor,DR
+2017,EPS-Source,7.0,nergy storage system,PV
+2017,IOT-Network,6.0,optical switching,IoT
+2017,EPS-Load,6.0,battery management,CR
+2017,IOT-Percept,12.0,IoT,WSN
+2017,IOT-Percept,6.0,event monitoring,ToA
+2017,IOT-Network,6.0,IKEv2,IoT
+2017,IOT-Network,7.0,M2M,RACH
+2017,EPS-Load,6.0,Priority of appliances,IBDR
+2017,IOT-Network,6.0,SDN-based Wireless Sensor Networks,WSN
+2017,IOT-App,9.0,long term evolution,IoT
+2017,EPS-Grid,6.0,dynamic fault tree analysis,dynamic fault tree
+2017,IOT-Compute,6.0,Performance modeling and analysis,IoT
+2017,IOT-Network,6.0,software defined networks for sensor nodes,WSN
+2017,IOT-Network,13.0,Energy efficiency,IoT
+2017,EPS-Source,8.0,Energy Management System,DC
+2017,IOT-Percept,12.0,IoT,wireless sensor networks
+2017,IOT-App,6.0,distributed stream processing,IoT
+2017,IOT-Network,12.0,Internet of Things,M2M
+2017,IOT-Network,23.0,IoT,IPv6
+2017,IOT-App,7.0,IIC,IoT
+2017,EPS-Source,6.0,fuel cell,PV
+2017,IOT-Network,13.0,Internet of Things,5G
+2017,IOT-Network,6.0,Inkjet-printing,D-2-PaS
+2017,IOT-Compute,6.0,cloudlet mesh,IoT
+2017,EPS-Source,6.0,emergency,PV
+2017,IOT-Network,8.0,5G,M2M
+2017,EPS-Store,7.0,DC-DC converter,DC
+2017,IOT-Network,9.0,Internet of Things,wireless networks
+2017,IOT-App,6.0,Machine Learning,ADL
+2017,IOT-Network,18.0,BLE,IoT
+2017,EPS-Store,6.0,supercapacitor,energy storage
+2017,IOT-Compute,8.0,Security Requirements,IoT
+2017,IOT-Network,6.0,Van Atta array,D-2-PaS
+2017,IOT-App,7.0,Physical entities,IPU
+2017,EPS-Source,6.0,Micro-grid,DC
+2017,IOT-Network,6.0,Denial of service attacks,IoT
+2017,IOT-Network,8.0,Mobile edge computing,MEC
+2017,IOT-App,7.0,IoT Standards,IoT
+2017,IOT-Network,9.0,Docker container,IoT
+2017,IOT-Network,23.0,LoRa,IoT
+2017,IOT-Network,6.0,solar,D-2-PaS
+2017,IOT-Percept,7.0,wireless sensor network,IoT
+2017,IOT-Compute,7.0,fog computing,IoT
+2017,IOT-App,6.0,coalition operations,IoT
+2017,IOT-App,6.0,Survey,IoT
+2017,EPS-Source,8.0,Ancillary service,MG
+2017,IOT-App,6.0,the Internet of Things,Internet of Things
+2017,IOT-Network,14.0,LPWAN,LoRa
+2017,IOT-Network,13.0,Cluster,IoT
+2017,EPS-Grid,6.0,Insulated-gate bipolar transistor,DC
+2017,EPS-Grid,6.0,condition monitoring,CM
+2017,IOT-Network,7.0,Antenna,PV
+2017,EPS-Store,6.0,Sizing,WDPS
+2017,IOT-App,7.0,Just-in-time,Industry 4.0
+2017,EPS-Source,12.0,power management,PV
+2017,IOT-Percept,6.0,energy-efficiency,IoT
+2017,IOT-Network,7.0,Software-Defined Radio,AP
+2017,EPS-Source,6.0,Plug-in electric vehicle,WDPS
+2017,EPS-Source,6.0,Battery aging,WDPS
+2017,IOT-Percept,6.0,Internet of things,ToA
+2017,IOT-Percept,6.0,big data,ToA
+2017,IOT-App,7.0,ISO/IEC JTC 1,IoT
+2017,IOT-Percept,6.0,data mining,ToA
+2017,IOT-Percept,8.0,Image Compression,IoT
+2017,IOT-Network,10.0,Embedded Systems,IoT
+2017,IOT-Percept,7.0,predictive maintenance,IoT
+2017,IOT-Network,7.0,IoT,PV
+2017,IOT-Network,7.0,DTLS,IoT
+2017,IOT-Network,7.0,LoRaWAN,PV
+2017,IOT-App,7.0,computing,IoT
+2017,IOT-Network,7.0,Science direct,TLS
+2017,IOT-Network,6.0,backscattering,D-2-PaS
+2017,EPS-Grid,7.0,Smart Grid,DC
+2017,EPS-Grid,6.0,Transmission tower,EHV
+2017,EPS-Store,6.0,DDCOPF,energy storage
+2017,IOT-Percept,8.0,Raspberry Pi,IoT
+2017,IOT-Network,10.0,Authentication,IoT
+2017,EPS-Source,8.0,DC bus voltage,DC
+2017,EPS-Store,6.0,Evolutionary algorithm,WDPS
+2017,IOT-App,7.0,TSDSI,IoT
+2017,IOT-Percept,7.0,Attacks,IoT
+2017,IOT-Compute,6.0,adaptive bandwidth,IoT
+2017,EPS-Source,6.0,Demand response,distribution network operator
+2017,IOT-App,10.0,knowledge base,IoT
+2017,IOT-Compute,6.0,Multi-class,IoT
+2017,IOT-Network,6.0,speed up,IPv6
+2017,IOT-Compute,6.0,Queuing system,IoT
+2017,EPS-Load,6.0,Energy cost,IBDR
+2017,IOT-Network,8.0,Fog Computing,IoT
+2017,IOT-Network,9.0,proximity sensing,IoT
+2017,IOT-Network,9.0,Hybrid cloud,IoT
+2017,EPS-Store,7.0,small signal modeling,DC
+2017,IOT-App,8.0,smart industry,IoT
+2017,IOT-Network,6.0,Smart Skins,D-2-PaS
+2017,IOT-Compute,6.0,3D Printing,3D
+2017,EPS-Source,14.0,MPPT,PV
+2017,IOT-Network,6.0,destination-aided jamming,IoT
+2017,IOT-Network,6.0,3D printing,D-2-PaS
+2017,EPS-Load,6.0,energy storage systems,DR
+2017,IOT-Percept,8.0,Singular value decomposition,IoT
+2017,EPS-Grid,6.0,IGBT,DC
+2017,EPS-Load,6.0,Smart Grid,IBDR
+2017,IOT-Network,6.0,ESP32,RFID
+2017,EPS-Grid,7.0,constant power,PV
+2017,EPS-Load,6.0,Time-of-use,RTP
+2017,IOT-Percept,6.0,PUF sensor,PUF
+2017,IOT-Network,6.0,Vehicle Telemetry,IoT
+2017,IOT-Network,6.0,physical layer security,IoT
+2017,IOT-Compute,6.0,Software-defined networking,IoT
+2017,IOT-App,6.0,supply chain management,Internet of Things
+2017,IOT-Percept,6.0,adaptive sampling,ToA
+2017,IOT-App,8.0,Cognitive Architecture,IoT
+2017,IOT-Network,7.0,ambient assisted living,IoT
+2017,IOT-Network,9.0,Remote laboratory,IoT
+2017,IOT-Percept,6.0,analytical model,WSN
+2017,IOT-Network,6.0,radio networks,CS
+2017,IOT-Percept,6.0,event monitoring,IoT
+2017,IOT-Network,6.0,flexible SIW,D-2-PaS
+2017,EPS-Grid,8.0,power line communication,power line
+2017,IOT-Network,9.0,FPGA hardware design laboratory,IoT
+2017,IOT-App,28.0,Web of Objects,IoT
+2017,EPS-Source,25.0,photovoltaic,PV
+2017,EPS-Store,10.0,G2V,EVs
+2017,IOT-App,10.0,Beacon,IoT
+2017,IOT-Network,7.0,multiband,PV
+2017,IOT-Network,13.0,NFV,5G
+2017,EPS-Grid,6.0,Nonlinear dynamic analysis,EHV
+2017,EPS-Store,11.0,DC bus,DC
+2017,IOT-App,9.0,path loss model,IoT
+2017,IOT-Network,13.0,Routing,IoT
+2017,IOT-Network,6.0,Wireless sensor networks,RF
+2017,EPS-Store,13.0,hybrid energy storage system,energy storage
+2017,IOT-Network,6.0,Internet of Things,MTC
+2017,EPS-Load,6.0,Smart grid,smart meter
+2017,IOT-App,10.0,semantic web,IoT
+2017,EPS-Load,9.0,smart meters,smart meter
+2017,IOT-Network,8.0,Smart Cities,IoT
+2017,IOT-App,10.0,Internet of Things,ultra-low-power
+2017,EPS-Source,10.0,distributed energy resources,PV
+2017,EPS-Source,11.0,Particle swarm optimization,PV
+2017,IOT-App,9.0,network architecture,IoT
+2017,EPS-Source,13.0,distributed power generation,DC
+2017,IOT-Compute,6.0,VM placement,IoT
+2017,IOT-Network,6.0,Security in IoT,IoT
+2017,IOT-Network,6.0,microfluidics,D-2-PaS
+2017,IOT-App,6.0,Application,Internet of Things
+2017,EPS-Store,14.0,hybrid energy storage system,DC
+2017,EPS-Store,6.0,Microgrid,WDPS
+2017,IOT-Network,13.0,Energy,IoT
+2017,EPS-Source,7.0,Battery,PV
+2017,IOT-App,6.0,big data applications,IoT
+2017,IOT-Network,12.0,network flooding,Wi-Fi
+2017,IOT-App,8.0,health monitoring,IoT
+2017,IOT-Compute,8.0,Access Point,IoT
+2017,IOT-Network,6.0,hybrid system,D-2-PaS
+2017,IOT-App,7.0,Cross-company kanban,Industry 4.0
+2017,IOT-App,6.0,performance evaluation,IoT
+2017,IOT-Network,15.0,LPWAN,IoT
+2017,IOT-Network,9.0,Fog computing,IoT
+2017,EPS-Source,6.0,islanded operation,PV
+2017,IOT-Network,12.0,asynchronous duty cycle,Wi-Fi
+2017,IOT-Percept,16.0,big data,IoT
+2017,EPS-Grid,7.0,PID,PV
+2017,EPS-Source,11.0,effective load carrying capability,PV
+2017,IOT-Network,6.0,multi-agent system,loT
+2017,IOT-App,25.0,Interoperability,IoT
+2017,IOT-Percept,6.0,replaying attack,PUF
+2017,IOT-Network,6.0,wireless sensor network,TDMA
+2017,IOT-Network,8.0,fog computing,MEC
+2017,IOT-Percept,7.0,i-line,PV
+2017,IOT-App,8.0,fault detection and diagnosis,IoT
+2017,EPS-Load,6.0,Manufacturing,RTP
+2017,EPS-Store,8.0,Electric vehicles,electric vehicle
+2017,IOT-Compute,6.0,Queuing theory,IoT
+2017,IOT-Network,6.0,IPv6 readiness,IPv6
+2017,IOT-Network,7.0,CWSN,AP
+2017,IOT-Compute,8.0,Genetic Algorithm,IoT
+2017,IOT-Percept,8.0,Pi camera,IoT
+2017,EPS-Store,7.0,microgrid,BESS
+2017,IOT-App,6.0,mobile computing,IoT
+2017,IOT-Percept,6.0,wireless sensing,PUF
+2017,EPS-Source,6.0,Multi-micro-grid,distribution network operator
+2017,EPS-Store,7.0,Utility Cost,DC
+2017,EPS-Load,9.0,privacy,smart meter
+2017,EPS-Source,6.0,smart distribution,PV
+2017,IOT-Network,6.0,M2M communications,IoT
+2017,IOT-Network,19.0,Bluetooth Low Energy,IoT
+2017,EPS-Source,11.0,loss of energy expectation,PV
+2017,IOT-App,6.0,KAP,IoT
+2017,IOT-Network,12.0,Wireless communication,Wi-Fi
+2017,IOT-App,12.0,Architecture,IoT
+2017,IOT-Network,6.0,additive manufacturing,D-2-PaS
+2017,EPS-Load,6.0,Smart grid functions,DR
+2017,IOT-Network,6.0,Embedded System,IoT
+2017,IOT-Network,6.0,LTE,M2M
+2017,IOT-Percept,7.0,photomask,PV
+2017,IOT-Compute,6.0,Analytical model,IoT
+2017,EPS-Source,6.0,Decision-making,distribution network operator
+2017,IOT-Network,6.0,Internet of things,WSAN
+2017,EPS-Source,6.0,distributed generation,PV
+2017,IOT-Percept,13.0,Semantic Web,IoT
+2017,EPS-Load,6.0,demand response,EVs
+2017,IOT-App,10.0,data interoperability,IoT
+2017,IOT-Network,6.0,IPSec,IoT
+2017,IOT-Network,9.0,digital snapshots,IoT
+2017,EPS-Store,8.0,Smart Grid,PHEVs
+2017,IOT-Percept,8.0,transmission,IoT
+2017,EPS-Store,6.0,Unit commitment,WDPS
+2017,IOT-Network,7.0,Cloud,5G
+2017,EPS-Store,7.0,Controller design,DC
+2017,EPS-Grid,6.0,fault chain,dynamic fault tree
+2017,IOT-App,8.0,cyber-physical systems,IoT
+2017,EPS-Grid,6.0,information collection,SN
+2017,EPS-Load,7.0,Smart distribution system,DR
+2017,IOT-Network,6.0,wireless acoustic sensor,RFID
+2017,IOT-Network,9.0,IoT System design laboratory,IoT
+2017,EPS-Grid,6.0,Smart grid,EHV
+2017,IOT-App,7.0,Complexity,IPU
+2017,EPS-Grid,6.0,power transformers,CM
+2017,EPS-Load,12.0,smart grid,DR
+2017,IOT-App,6.0,energy efficiency,TLS
+2017,IOT-App,9.0,wavelet,IoT
+2017,IOT-App,6.0,data valorisation,TLS
+2017,EPS-Grid,6.0,Superconducting fault current limiter,DC
+2017,IOT-Network,8.0,LoRaWAN,IoT
+2017,IOT-Percept,6.0,data mining,IoT
+2017,EPS-Grid,6.0,importance analysis,dynamic fault tree
+2017,IOT-App,6.0,simulation,RFID
+2017,IOT-Network,6.0,network management architecture,WSN
+2017,EPS-Store,8.0,Unit Commitment,PHEVs
+2017,EPS-Source,9.0,efficiency,PV
+2017,IOT-Network,6.0,optical transport,IoT
+2017,EPS-Load,6.0,Demand response,IBDR
+2017,EPS-Store,7.0,BESS,energy storage system
+2017,IOT-Percept,6.0,Wireless sensor networks,WSN
+2017,IOT-Network,6.0,Vehicle Tracking,IoT
+2017,IOT-Network,13.0,Cloud Computing,IoT
+2017,IOT-Compute,8.0,Big Data,IoT
+2017,EPS-Source,6.0,simulation,DC
+2017,EPS-Source,11.0,COPT,PV
+2017,EPS-Source,6.0,power convertors,DC
+2017,IOT-App,9.0,Security Infrastructure IP,IoT
+2017,EPS-Store,7.0,PHEVs,PHEV
+2017,IOT-Network,6.0,low cost,RFID
+2017,EPS-Source,11.0,capacity credit,PV
+2017,IOT-Network,8.0,5G technologies,5G
+2017,IOT-App,6.0,Data anonymization,IoT
+2017,EPS-Source,6.0,efficiency,DC
+2017,EPS-Load,7.0,Advanced metering infrastructure,DR
+2017,IOT-Network,10.0,Energy Efficiency,IoT
+2017,IOT-Compute,8.0,Cloud Robotics,IoT
+2017,EPS-Grid,6.0,blackout,dynamic fault tree
+2017,IOT-App,7.0,Advanced manufacturing,Industry 4.0
+2017,IOT-App,6.0,Raspberry Pi,Internet of Things
+2017,IOT-Network,7.0,LPWAN,PV
+2017,IOT-Percept,6.0,Machine Learning,IoT
+2017,IOT-App,8.0,smart manufacturing,IoT
+2017,EPS-Source,8.0,Dynamic tariff,PV
+2017,IOT-Network,7.0,Internet of Things,3D
+2017,IOT-Network,7.0,Spectrum Sensing,AP
+2017,EPS-Source,6.0,energy storage system,energy storage
+2017,IOT-Network,6.0,DMA,IoT
+2017,IOT-App,10.0,Personalized recommendation service,IoT
+2017,IOT-Network,6.0,RFID,D-2-PaS
+2017,IOT-Percept,6.0,sensors,IoT
+2017,EPS-Source,6.0,Smart grid,energy storage
+2017,EPS-Load,6.0,Home energy management,IBDR
+2017,IOT-Percept,9.0,IOT,IoT
+2017,IOT-Percept,6.0,Internet of Things,RF
+2017,IOT-Percept,7.0,CD measurement,PV
+2017,IOT-App,7.0,healthcare,IoT
+2017,IOT-Percept,7.0,Internet of things,RFID
+2017,IOT-Percept,6.0,Predictive analytics,IoT
+2017,EPS-Source,6.0,V2G,WDPS
+2017,IOT-Percept,6.0,adaptive sampling,IoT
+2017,IOT-Network,8.0,Key agreement,IoT
+2017,IOT-App,6.0,edge computing,TLS
+2017,IOT-App,7.0,Distributed ledger technology,Industry 4.0
+2017,IOT-App,7.0,AllSeen Alliance,IoT
+2017,IOT-Network,13.0,Sensor nodes,IoT
+2017,IOT-App,6.0,electric vehicle,TLS
+2017,IOT-App,6.0,IT-Security,D-2-PaS
+2017,EPS-Store,6.0,Charging station operator,EVs
+2017,IOT-App,7.0,Service Orchestration,IoT
+2017,IOT-Network,6.0,LoRa,Internet of Things
+2017,EPS-Store,9.0,waiting time,EVs
+2017,IOT-Network,6.0,TDMA scheduling,TDMA
+2017,IOT-Network,6.0,distributed time slot allocation,TDMA
+2017,EPS-Source,14.0,mixed integer linear programming,PV
+2017,EPS-Source,17.0,DC microgrid,DC
+2017,IOT-Percept,6.0,data manipulation,PUF
+2017,IOT-App,6.0,intelligence,IoT
+2017,EPS-Source,11.0,ELCC,PV
+2017,EPS-Source,6.0,Multi follower bi-level programming,distribution network operator
+2017,IOT-Network,8.0,federation,IoT
+2017,IOT-Compute,6.0,Priority,IoT
+2017,EPS-Source,11.0,loss of load expectation,PV
+2017,IOT-Network,7.0,cryptography,IoT
+2017,EPS-Load,6.0,and peak load management,DR
+2017,IOT-App,8.0,IoT risks,IoT
+2017,IOT-App,6.0,Cooja,IoT
+2017,IOT-Percept,6.0,decen-tralized signal processing,ToA
+2017,IOT-Network,6.0,SBC,IoT
+2017,IOT-Percept,8.0,PER sensor,IoT
+2017,IOT-Network,6.0,ambient assisted living,RFID
+2017,IOT-Compute,6.0,Middleware,CoT
+2017,IOT-Network,6.0,machine-type communication,M2M
+2017,IOT-Network,10.0,QoS,IoT
+2017,IOT-Network,6.0,web-based content,IPv6
+2017,EPS-Grid,6.0,OFDM,SN
+2017,EPS-Store,10.0,smart grid,electric vehicle
+2017,IOT-Network,6.0,material management,loT
+2017,EPS-Source,6.0,Modelica,DC
+2017,IOT-Network,6.0,untrusted relay,IoT
+2017,EPS-Load,6.0,Demand response,RTP
+2017,EPS-Load,7.0,Smart meter,NTL
+2017,IOT-App,7.0,Process mining,IoT
+2017,EPS-Grid,7.0,load sharing,PV
+2017,IOT-App,9.0,fade margin,IoT
+2017,IOT-Compute,6.0,Heterogeneous and homogeneous multi server,IoT
+2017,EPS-Store,8.0,plug-in electric vehicle,PEVs
+2017,IOT-Network,6.0,IoT,TDMA
+2017,IOT-App,6.0,retail,Internet of Things
+2017,EPS-Grid,6.0,Seismic hazard risk assessment,EHV
+2017,IOT-Network,6.0,material information unit,loT
+2017,EPS-Load,10.0,smart grid,smart meter
+2017,IOT-Network,13.0,Internet-of-Things,IoT
+2017,IOT-Network,9.0,element key,IoT
+2017,IOT-Percept,8.0,Security,IoT
+2017,IOT-Network,11.0,NB-IoT,IoT
+2017,IOT-App,8.0,Patient Monitoring,IoT
+2017,EPS-Load,6.0,ADP,CR
+2017,IOT-Network,6.0,encapsulation,D-2-PaS
+2017,EPS-Grid,6.0,Cascading failures,dynamic fault tree
+2017,IOT-Network,9.0,Healthcare networks,IoT
+2017,IOT-Network,7.0,Traffic scheduling,IoT
+2017,EPS-Source,28.0,microgrid,PV
+2017,IOT-Network,8.0,green computing,MEC
+2017,EPS-Source,6.0,Local distribution system,WDPS
+2017,IOT-Network,6.0,energy-topology factor,TDMA
+2017,IOT-Compute,11.0,Internet of Things,CoT
+2017,IOT-App,9.0,traffic modelling,IoT
+2017,IOT-App,8.0,Cyber security,IoT
+2017,EPS-Load,6.0,Smart grid,RTP
+2017,IOT-Network,15.0,authentication,IoT
+2017,IOT-Percept,7.0,Machine learning,IoT
+2017,IOT-Percept,6.0,energy-efficiency,ToA
+2017,IOT-Network,6.0,packaging,D-2-PaS
+2017,EPS-Grid,8.0,smart grid,DC
+2017,IOT-App,7.0,SESEI,IoT
+2017,EPS-Store,8.0,V2G,PHEVs
+2017,IOT-Compute,11.0,Cloud of Things,CoT
+2017,IOT-App,7.0,Cyber-physical systems,Industry 4.0
+2017,IOT-App,6.0,process improvement,RFID
+2017,IOT-Network,6.0,Energy efficiency,5G
+2017,IOT-Network,8.0,Internet of things,WSN
+2017,EPS-Load,6.0,smart home,CR
+2017,IOT-Network,6.0,Wireless Sensor Network,WSN
+2017,IOT-Network,7.0,Internet of Things,AP
+2017,EPS-Load,6.0,approximate dynamic programming,CR
+2017,IOT-Network,6.0,Internet of Things,wireless communication
+2017,IOT-Network,9.0,Group-Group experiment,IoT
+2017,IOT-App,7.0,new technologies,IoT
+2017,IOT-Percept,7.0,ANN,IoT
+2017,EPS-Load,6.0,neuro-dynamic programming,CR
+2017,IOT-App,6.0,ADLs recognition,ADL
+2017,IOT-Network,14.0,Edge computing,IoT
+2017,IOT-Compute,7.0,Secure loT platform,loT
+2017,IOT-App,10.0,DID,IoT
+2017,EPS-Source,11.0,LOEE,PV
+2017,IOT-App,7.0,electrical network,IoT
+2017,IOT-Network,8.0,Gateway,IoT
+2017,IOT-Network,8.0,resource management,MEC
+2017,EPS-Source,9.0,microgrids,PV
+2017,IOT-Network,7.0,Internet-of-Things,PV
+2017,IOT-Network,7.0,IoT,AP
+2017,IOT-App,6.0,Telegram,IoT
+2017,IOT-Compute,6.0,Remote Monitoring,3D
+2017,IOT-Percept,6.0,Data Mining,IoT
+2017,EPS-Source,6.0,commercial buildings,DC
+2017,EPS-Source,11.0,smart grid,PV
+2017,IOT-Network,7.0,Cognitive Wireless Sensor Networks,AP
+2017,IOT-App,8.0,Contiki,IoT
+2017,IOT-Network,13.0,Communication,IoT
+2017,IOT-Network,6.0,multi-layer structures,D-2-PaS
+2017,IOT-App,6.0,surveillance and reconnaissance,IoT
+2017,EPS-Source,11.0,capacity outage probability table,PV
+2017,EPS-Load,6.0,optimal control,CR
+2017,EPS-Load,6.0,energy management system,CR
+2017,IOT-Compute,8.0,Motion Planning,IoT
+2017,IOT-Network,6.0,Low-cost-test-beds,IoT
+2017,IOT-Network,12.0,concurrent broadcast,Wi-Fi
+2017,IOT-Network,6.0,flexible electronics,D-2-PaS
+2017,EPS-Store,7.0,bipolar-type DC micro-grid,DC
+2017,IOT-Network,6.0,Wireless Sensor Networks,WSN
+2017,IOT-Network,7.0,Bibliometric analysis,TLS
+2017,IOT-Network,9.0,metadata,IoT
+2017,IOT-Percept,8.0,decompression,IoT
+2017,EPS-Load,7.0,Malicious meter,NTL
+2017,EPS-Source,7.0,optimization. nergy storage system,PV
+2017,IOT-Network,6.0,Data analysis,IoT
+2017,IOT-Compute,7.0,loT privacy and security,loT
+2017,EPS-Store,8.0,Emission,PHEVs
+2017,EPS-Source,6.0,power planning,PV
+2017,IOT-App,7.0,Internet of things,Industry 4.0
+2017,EPS-Grid,6.0,wireless sensor network,SN
+2017,IOT-Network,6.0,via-holes,D-2-PaS
+2017,EPS-Source,16.0,Microgrid,PV
+2017,IOT-Network,6.0,network security,IoT
+2017,IOT-App,9.0,Microcontroller/System-on-Chip Security,IoT
+2017,EPS-Source,7.0,Microgrid,power management
+2017,IOT-Network,6.0,CIoT networks,IoT
+2017,IOT-Network,7.0,Context awareness,IoT
+2017,EPS-Source,6.0,Vehicle-2-grid,WDPS
+2017,EPS-Store,7.0,Control strategy,DC
+2017,EPS-Store,6.0,charging and discharging cost,energy storage
+2017,IOT-Network,6.0,Data Fetch,IoT
+2017,IOT-Network,7.0,LoRa,PV
+2017,IOT-Network,6.0,inkjet-printed passive components,D-2-PaS
+2017,EPS-Source,7.0,PV systems,PV
+2017,IOT-Compute,8.0,Fog Computing,CoT
+2017,IOT-Percept,8.0,Sensors,IoT
+2017,EPS-Grid,6.0,DC circuit breaker,DC
+2017,EPS-Grid,6.0,High voltage,CM
+2017,EPS-Grid,6.0,pilot installations,CM
+2017,IOT-Network,8.0,network function virtualisation,IoT
+2017,IOT-Percept,6.0,decen-tralized signal processing,IoT
+2017,IOT-Network,6.0,fiber optics,IoT
+2017,IOT-App,7.0,Internet of things,IPU
+2017,IOT-App,9.0,Hardware Security,IoT
+2017,IOT-App,10.0,MongoDB,IoT
+2017,IOT-App,7.0,OCF,IoT
+2017,IOT-App,7.0,Semantics,IoT
+2017,IOT-Network,7.0,WLAN,IoT
+2017,IOT-App,6.0,IoT(Internet of Things),IoT
+2017,IOT-Network,8.0,mobile cloud computing,MEC
+2017,IOT-App,7.0,ITU SG 20,IoT
+2017,IOT-Network,6.0,optical sensor,IoT
+2017,IOT-App,7.0,IEEE P2413,IoT
+2017,EPS-Load,6.0,Demand response,MGs
+2017,EPS-Store,6.0,Energy management,WDPS
+2017,EPS-Store,7.0,Community Microgrid,DC
+2017,EPS-Load,7.0,Reliability,DR
+2017,EPS-Source,6.0,resiliency,PV
+2017,IOT-Network,6.0,agent collaboration,loT
+2017,IOT-Network,9.0,complex key generation,IoT
+2017,EPS-Grid,6.0,SFCL,DC
+2017,EPS-Source,6.0,Fuel Cells,DC
+2017,IOT-App,8.0,SaaS,IoT
+2017,EPS-Source,11.0,CC,PV
+2017,IOT-Percept,6.0,hardware security,PUF
+2017,EPS-Source,8.0,power quality,PV
+2017,IOT-Network,7.0,Multi-hop communication,IoT
+2017,IOT-Network,6.0,Secure routing protocol,IoT
+2017,IOT-Network,6.0,Smart City,IPv6
+2017,EPS-Load,6.0,demand side management,NILM
+2017,IOT-App,6.0,Incentive,IoT
+2017,IOT-Network,7.0,6LoWPAN,IPv6
+2017,EPS-Source,10.0,Photovoltaic system,PV
+2017,EPS-Store,11.0,Plug-in Hybrid Electric Vehicles,PHEVs
+2017,IOT-Network,6.0,IEEE 802.11ah,IoT
+2017,IOT-Network,7.0,microstrip,PV
+2017,EPS-Grid,6.0,DC distribution system,DC
+2017,IOT-Percept,7.0,automation,PV
+2017,EPS-Source,8.0,Mixed-integer non-linear programming,PV
+2017,IOT-Compute,8.0,WiFi,IoT
+2017,IOT-Network,6.0,Offshore platform project,loT
+2017,IOT-App,6.0,dataflows,IoT
+2017,EPS-Load,8.0,IoT,smart grids
+2017,IOT-Network,6.0,compressed sensing,CS
+2017,EPS-Store,6.0,Mixed-Integer Quadratic Programming,energy storage
+2017,IOT-Network,10.0,SDN,5G
+2017,EPS-Source,6.0,outage,PV
+2017,IOT-Percept,8.0,SVD,IoT
+2017,IOT-Network,7.0,Wireless Networks,IoT
+2017,IOT-Network,6.0,energy harvesting,D-2-PaS
+2017,IOT-Network,6.0,Internet of Things,IPv6
+2017,IOT-Compute,8.0,Task Offloading,IoT
+2017,IOT-Network,8.0,computation offloading,MEC
+2017,IOT-App,7.0,Built environment,IPU
+2017,EPS-Store,10.0,battery,energy storage
+2017,IOT-Network,6.0,wireless energy harvesting,IoT
+2017,IOT-Network,6.0,Information Security,IoT
+2017,EPS-Source,21.0,Microgrid,energy storage
+2017,EPS-Source,11.0,LOLE,PV
+2017,IOT-Network,6.0,interconnects,D-2-PaS
+2017,IOT-App,7.0,oneM2M,IoT
+2017,IOT-App,9.0,operational model,IoT
+2017,IOT-Percept,7.0,energy harvesting,RF
+2017,IOT-Network,6.0,power consumption,DRX
+2017,IOT-Network,7.0,edge computing,IoT
+2017,IOT-App,8.0,China,IoT
+2017,IOT-Percept,10.0,Wireless sensor networks,IoT
+2017,IOT-Network,7.0,SigFox,AP
+2017,EPS-Source,6.0,energy storage,PV
+2017,EPS-Load,6.0,Adaptive critic designs,CR
+2017,EPS-Store,7.0,stability analysis,DC
+2017,EPS-Source,6.0,voltage control,ACMC
+2017,IOT-Network,9.0,LoRaWAN,LoRa
+2017,IOT-App,9.0,system reliability,IoT
+2017,IOT-Network,7.0,SDR,AP
+2017,IOT-App,6.0,IoT,D-2-PaS
+2017,EPS-Source,8.0,microgrid,energy storage
+2017,IOT-App,8.0,security threats and violations,IoT
+2017,EPS-Store,7.0,DC Loads,DC
+2017,EPS-Store,8.0,Smart grid,electric vehicle
+2017,IOT-Network,6.0,End-to-end security,IoT
+2017,IOT-Network,6.0,data center network,IoT
+2017,EPS-Source,6.0,smart grid,EVs
+2017,IOT-Network,6.0,Synchronization,IoT
+2017,IOT-Compute,6.0,Cloud Platform,3D
+2017,IOT-Network,12.0,6LoWPAN,IoT
+2017,IOT-Network,6.0,edge computing,RFID
+2017,IOT-App,7.0,System of systems,IPU
+2017,IOT-Percept,10.0,Smart City,IoT
+2017,EPS-Load,6.0,Smart Grid,DR
+2017,EPS-Grid,6.0,Fragility curve,EHV
+2017,EPS-Source,8.0,DC Microgrid,DC
+2017,EPS-Grid,6.0,Non-zero-crossing switching,DC
+2017,IOT-App,7.0,IoT4SCTF,IoT
+2017,IOT-Network,6.0,network management abstractions,WSN
+2017,IOT-Network,7.0,ICT,TLS
+2017,IOT-App,6.0,intermittent production system,RFID
+2017,IOT-Network,7.0,Cognitive Radio,AP
+2017,IOT-Compute,6.0,ESP8266,IoT
+2017,IOT-App,7.0,machine to machine communication,IoT
+2017,IOT-Network,6.0,Internet of Things,D-2-PaS
